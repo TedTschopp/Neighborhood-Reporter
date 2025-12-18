@@ -1,0 +1,1635 @@
+# Local Leaders and Contacts for Duarte
+
+leaders:
+# City Council
+- id: tera-martin-del-campo-mayor
+  name: Tera Martin Del Campo
+  role: Mayor (District 4)
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  social:
+    email: citycouncil@accessduarte.com
+  contact:
+    phone: "(626) 357-7931 ext. 223"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - mayor
+  - city-council
+  - elected
+  notes: "Mayor of Duarte - selected December 2024"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: samuel-kang-mayor-pro-tem
+  name: Samuel Kang
+  role: Mayor Pro Tem (District 5)
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  social:
+    email: citycouncil@accessduarte.com
+  contact:
+    phone: "(626) 357-7931 ext. 223"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - mayor-pro-tem
+  - city-council
+  - elected
+  notes: "Mayor Pro Tem - selected December 2024"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: margaret-finlay-councilmember
+  name: Margaret Finlay
+  role: Council Member (District 1)
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  social:
+    email: citycouncil@accessduarte.com
+  contact:
+    phone: "(626) 357-7931 ext. 223"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - city-council
+  - elected
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: martin-calderon-councilmember
+  name: Martin Calderon
+  role: Council Member (District 2)
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  social:
+    email: citycouncil@accessduarte.com
+  contact:
+    phone: "(626) 357-7931 ext. 223"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - city-council
+  - elected
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: vinh-truong-councilmember
+  name: Vinh Truong
+  role: Council Member (District 3)
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  social:
+    email: citycouncil@accessduarte.com
+  contact:
+    phone: "(626) 357-7931 ext. 223"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - city-council
+  - elected
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: cesar-garcia-councilmember
+  name: Cesar A. Garcia
+  role: Council Member (District 6)
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  social:
+    email: citycouncil@accessduarte.com
+  contact:
+    phone: "(626) 357-7931 ext. 223"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - city-council
+  - elected
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: toney-lewis-councilmember
+  name: Toney Lewis
+  role: Council Member (District 7)
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  social:
+    email: citycouncil@accessduarte.com
+  contact:
+    phone: "(626) 357-7931 ext. 223"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - city-council
+  - elected
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# City Manager
+- id: brian-villalobos-city-manager
+  name: Brian Villalobos
+  role: City Manager
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7931 ext. 223"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - administration
+  - city-management
+  notes: "Appointed City Manager in May 2023. Previously served 17 years as Public Safety Director."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: kristen-petersen-asst-city-manager
+  name: Kristen Petersen
+  role: Assistant City Manager / Director of Administrative Services
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-6811"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - administration
+  - city-management
+  - finance
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: frances-jimenez-city-clerk
+  name: Frances Jimenez
+  role: City Clerk
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7931 ext. 221"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - administration
+  - city-clerk
+  - records
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: andres-rangel-pio
+  name: Andres Rangel
+  role: Assistant to the City Manager / Public Information Officer
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7931 ext. 269"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - communications
+  - pio
+  - social-media
+  notes: "Manages city communications and public information"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: larry-breceda-public-safety-director
+  name: Larry Breceda
+  role: Public Safety Director
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7938 ext. 315"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - public-safety
+  - law-enforcement
+  - administration
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: craig-hensley-community-dev-director
+  name: Craig Hensley
+  role: Community Development Director
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 386-6817"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - planning
+  - development
+  - building
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# School District Leadership
+- id: jessica-medrano-superintendent
+  name: Dr. Jessica Medrano
+  role: Superintendent
+  organization: Duarte Unified School District
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - superintendent
+  - district
+  notes: "DUSD Superintendent 2024-2025"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# LA County Supervisor (District 5)
+- id: kathryn-barger-supervisor
+  name: Kathryn Barger
+  role: LA County Supervisor - District 5
+  organization: Los Angeles County Board of Supervisors
+  organization_type: government
+  neighborhoods:
+  - duarte
+  social:
+    twitter: "@kataborger"
+    facebook: https://www.facebook.com/SupervisorKathrynBarger/
+  contact:
+    phone: "(213) 974-5555"
+    office_address: "500 W Temple St, Los Angeles, CA 90012"
+    website: https://supervisorkathrynbarger.com/
+  tags:
+  - county
+  - supervisor
+  - elected
+  notes: "Duarte is in LA County Supervisor District 5"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Chamber of Commerce
+- id: gregory-endelman-chamber-president
+  name: Gregory Endelman
+  role: Board President (2024-2025)
+  organization: Duarte Chamber of Commerce
+  organization_type: civic
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-3333"
+    office_address: "1735 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - business
+  - chamber
+  - commerce
+  notes: "Chamber Board President 2024-2025. CEO of Orange County School of the Arts."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sheriff's Station (Temple Station)
+- id: temple-station-captain
+  name: Temple Station Captain
+  role: Captain
+  organization: LA County Sheriff - Temple Station
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 285-7171"
+    office_address: "8838 Las Tunas Dr, Temple City, CA 91780"
+  tags:
+  - law-enforcement
+  - sheriff
+  - public-safety
+  notes: "Temple Station serves Duarte - verify current captain name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# City of Hope Leadership
+- id: robert-stone-city-of-hope-ceo
+  name: Robert Stone
+  role: President and CEO
+  organization: City of Hope
+  organization_type: business
+  neighborhoods:
+  - duarte
+  social:
+    linkedin: https://www.linkedin.com/company/city-of-hope/
+  contact:
+    phone: "(800) 826-4673"
+    office_address: "1500 E Duarte Rd, Duarte, CA 91010"
+  tags:
+  - healthcare
+  - research
+  - executive
+  notes: "President and CEO of City of Hope National Medical Center"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+# ============================================
+# SCHOOL BOARD MEMBERS
+# ============================================
+
+- id: dusd-board-president
+  name: Board President
+  role: Board President
+  organization: Duarte Unified School District
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - school-board
+  - elected
+  - governance
+  notes: "Verify current board president name - elected positions rotate"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: dusd-board-member-1
+  name: Board Member 1
+  role: Board Member
+  organization: Duarte Unified School District
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - school-board
+  - elected
+  notes: "Verify current board member names"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: dusd-board-member-2
+  name: Board Member 2
+  role: Board Member
+  organization: Duarte Unified School District
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - school-board
+  - elected
+  notes: "Verify current board member names"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: dusd-board-member-3
+  name: Board Member 3
+  role: Board Member
+  organization: Duarte Unified School District
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - school-board
+  - elected
+  notes: "Verify current board member names"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: dusd-board-member-4
+  name: Board Member 4
+  role: Board Member
+  organization: Duarte Unified School District
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - school-board
+  - elected
+  notes: "Verify current board member names"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# SCHOOL PRINCIPALS
+# ============================================
+
+- id: luis-haro-dhs-principal
+  name: Luis Haro
+  role: Principal / Director of Secondary Program Compliance
+  organization: Duarte High School
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5700"
+    office_address: "1565 E Central Ave, Duarte, CA 91010"
+  tags:
+  - education
+  - high-school
+  - principal
+  - administration
+  notes: "Principal of Duarte High School"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: northview-principal
+  name: Northview Intermediate Principal
+  role: Principal
+  organization: Northview Intermediate School
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5600"
+    office_address: "1351 Highland Ave, Duarte, CA 91010"
+  tags:
+  - education
+  - middle-school
+  - principal
+  - administration
+  notes: "Verify current principal name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: andres-duarte-principal
+  name: Andres Duarte Elementary Principal
+  role: Principal
+  organization: Andres Duarte Elementary School
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5300"
+    office_address: "1433 Crestfield Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - elementary
+  - principal
+  - administration
+  notes: "Verify current principal name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: jennifer-romero-beardslee-principal
+  name: Jennifer Romero
+  role: Principal
+  organization: Beardslee Dual Language Academy
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5400"
+    office_address: "1212 Kellwill Way, Duarte, CA 91010"
+  tags:
+  - education
+  - elementary
+  - principal
+  - administration
+  - dual-language
+  notes: "Principal of Beardslee Dual Language Academy"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: johna-stienstra-maxwell-principal
+  name: Johna Stienstra
+  role: Principal
+  organization: Maxwell Elementary School (IB Academy)
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5500"
+    office_address: "851 Bradbourne Ave, Duarte, CA 91010"
+  tags:
+  - education
+  - elementary
+  - principal
+  - administration
+  - ib-academy
+  notes: "Principal of Maxwell Elementary IB Academy"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: julia-castillo-royal-oaks-principal
+  name: Julia Castillo
+  role: Principal
+  organization: Royal Oaks STEAM Academy
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5200"
+    office_address: "2499 Royal Oaks Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - elementary
+  - steam
+  - principal
+  - administration
+  notes: "Principal of Royal Oaks STEAM Academy"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: sheri-hynding-valley-view-principal
+  name: Sheri Hynding
+  role: Principal
+  organization: Valley View Elementary School
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5100"
+    office_address: "225 Melcanyon Rd, Duarte, CA 91010"
+  tags:
+  - education
+  - elementary
+  - principal
+  - administration
+  notes: "Principal of Valley View Elementary School"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: mt-olive-principal
+  name: Mt. Olive Continuation High Principal
+  role: Principal
+  organization: Mt. Olive High School
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5750"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - continuation
+  - principal
+  - administration
+  notes: "Verify current principal name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# DISTRICT ADMINISTRATION
+# ============================================
+
+- id: dusd-asst-superintendent-ed
+  name: Assistant Superintendent, Educational Services
+  role: Assistant Superintendent, Educational Services
+  organization: Duarte Unified School District
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - administration
+  - curriculum
+  - instruction
+  notes: "Oversees curriculum, instruction, and student services"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: dusd-asst-superintendent-bus
+  name: Assistant Superintendent, Business Services
+  role: Assistant Superintendent, Business Services
+  organization: Duarte Unified School District
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - administration
+  - budget
+  - facilities
+  notes: "Oversees budget, facilities, and business operations"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: dusd-director-special-ed
+  name: Director of Special Education
+  role: Director of Special Education
+  organization: Duarte Unified School District
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - special-education
+  - administration
+  - selpa
+  notes: "Oversees all special education programs and services"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: dusd-director-tech
+  name: Director of Technology
+  role: Director of Technology
+  organization: Duarte Unified School District
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - technology
+  - administration
+  - it
+  notes: "Oversees district technology and IT services"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# LIBRARY LEADERSHIP
+# ============================================
+
+- id: duarte-library-manager
+  name: Duarte Library Branch Manager
+  role: Branch Manager
+  organization: LA County Library - Duarte Branch
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 358-1865"
+    office_address: "1301 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - library
+  - education
+  - administration
+  - public-service
+  notes: "Manages Duarte Library branch"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# HIGHER EDUCATION CONTACTS
+# ============================================
+
+- id: greg-schulz-citrus-president
+  name: Dr. Greg Schulz, Ed.D.
+  role: Superintendent/President
+  organization: Citrus Community College District
+  organization_type: educational
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 963-0323"
+    office_address: "1000 W Foothill Blvd, Glendora, CA 91741"
+    website: https://www.citruscollege.edu/admin/president/
+  tags:
+  - education
+  - community-college
+  - administration
+  - higher-education
+  notes: "Superintendent/President of Citrus College serving Duarte residents"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# RELIGIOUS LEADERS - CATHOLIC
+# ============================================
+
+- id: icc-pastor
+  name: Pastor - Immaculate Conception Church
+  role: Pastor
+  organization: Immaculate Conception Parish
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-2116"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - priest
+  - pastor
+  - catholic
+  - clergy
+  notes: "Pastor of Immaculate Conception Catholic Church - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: icc-associate-pastor
+  name: Associate Pastor - ICC
+  role: Associate Pastor / Parochial Vicar
+  organization: Immaculate Conception Parish
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-2116"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - priest
+  - associate-pastor
+  - catholic
+  - clergy
+  notes: "Associate pastor at ICC - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: icc-deacon
+  name: Deacon - Immaculate Conception
+  role: Permanent Deacon
+  organization: Immaculate Conception Parish
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-2116"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - deacon
+  - catholic
+  - clergy
+  notes: "Permanent deacon at ICC - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: icc-school-principal
+  name: Principal - ICC School
+  role: Principal
+  organization: Immaculate Conception School
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-3720"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - principal
+  - catholic
+  - school
+  - administration
+  notes: "Principal of ICC Catholic School K-8"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: icc-dre
+  name: Director of Religious Education - ICC
+  role: Director of Religious Education
+  organization: Immaculate Conception Parish
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-2116"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - religious-education
+  - catholic
+  - ccd
+  - faith-formation
+  notes: "Oversees CCD/Religious Education programs"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: icc-youth-minister
+  name: Youth Minister - ICC
+  role: Youth Minister
+  organization: Immaculate Conception Parish
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-2116"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - youth-ministry
+  - catholic
+  - confirmation
+  - teens
+  notes: "Coordinates youth ministry and Confirmation program"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# RELIGIOUS LEADERS - PROTESTANT MAINLINE
+# ============================================
+
+- id: fpc-pastor
+  name: Pastor - First Presbyterian Church
+  role: Pastor / Head of Staff
+  organization: First Presbyterian Church of Duarte
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7911"
+    office_address: "1500 Royal Oaks Dr, Duarte, CA 91010"
+  tags:
+  - pastor
+  - presbyterian
+  - clergy
+  notes: "Pastor of First Presbyterian Church - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: wesley-umc-pastor
+  name: Pastor - Wesley United Methodist
+  role: Pastor
+  organization: Wesley United Methodist Church
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7651"
+    office_address: "2114 W Huntington Dr, Duarte, CA 91010"
+  tags:
+  - pastor
+  - methodist
+  - clergy
+  notes: "Pastor of Wesley UMC - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: hope-lutheran-pastor
+  name: Pastor - Hope Lutheran Church
+  role: Pastor
+  organization: Hope Lutheran Church
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-4674"
+    office_address: "1801 Oak Ave, Duarte, CA 91010"
+  tags:
+  - pastor
+  - lutheran
+  - clergy
+  notes: "Pastor of Hope Lutheran Church - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# RELIGIOUS LEADERS - EVANGELICAL
+# ============================================
+
+- id: duarte-coc-minister
+  name: Minister - Duarte Church of Christ
+  role: Minister / Preacher
+  organization: Duarte Church of Christ
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-4756"
+    office_address: "901 S Highland Ave, Duarte, CA 91010"
+  tags:
+  - minister
+  - church-of-christ
+  - clergy
+  notes: "Minister at Duarte Church of Christ - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: first-baptist-pastor
+  name: Pastor - First Baptist Church of Duarte
+  role: Senior Pastor
+  organization: First Baptist Church of Duarte
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7626"
+    office_address: "2012 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - pastor
+  - baptist
+  - clergy
+  notes: "Senior Pastor of First Baptist - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# RELIGIOUS LEADERS - OTHER CHRISTIAN
+# ============================================
+
+- id: lds-bishop-duarte
+  name: Bishop - Duarte Ward (LDS)
+  role: Bishop
+  organization: Church of Jesus Christ of Latter-day Saints
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-5291"
+    office_address: "2020 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - bishop
+  - lds
+  - mormon
+  - clergy
+  notes: "Bishop of Duarte Ward - verify current name (lay clergy position rotates)"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: sda-pastor-duarte
+  name: Pastor - Duarte Seventh-day Adventist
+  role: Pastor
+  organization: Duarte Seventh-day Adventist Church
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    office_address: "Duarte, CA 91010"
+  tags:
+  - pastor
+  - adventist
+  - clergy
+  notes: "Pastor of Duarte SDA Church - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# RELIGIOUS LEADERS - INTERFAITH & CHAPLAINCY
+# ============================================
+
+- id: city-of-hope-chaplain
+  name: Director of Spiritual Care - City of Hope
+  role: Director of Spiritual Care / Lead Chaplain
+  organization: City of Hope
+  organization_type: corporate
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(800) 826-4673"
+    office_address: "1500 E Duarte Rd, Duarte, CA 91010"
+  tags:
+  - chaplain
+  - spiritual-care
+  - hospital
+  - interfaith
+  notes: "Leads interfaith chaplaincy team at City of Hope"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# RELIGIOUS LEADERS - SOCIAL SERVICES
+# ============================================
+
+- id: svdp-president-icc
+  name: President - St. Vincent de Paul (ICC Conference)
+  role: Conference President
+  organization: St. Vincent de Paul Society - ICC
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-2116"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - charity
+  - catholic
+  - social-services
+  - volunteer
+  notes: "Leads the St. Vincent de Paul conference at ICC"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: koc-grand-knight-icc
+  name: Grand Knight - Knights of Columbus (ICC Council)
+  role: Grand Knight
+  organization: Knights of Columbus
+  organization_type: religious
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-2116"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - fraternal
+  - catholic
+  - service
+  - men
+  notes: "Leads the Knights of Columbus council at ICC"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# CORPORATE & BUSINESS LEADERS
+# ============================================
+
+- id: city-of-hope-cmo
+  name: Chief Medical Officer - City of Hope
+  role: Chief Medical Officer
+  organization: City of Hope
+  organization_type: corporate
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(800) 826-4673"
+    office_address: "1500 E Duarte Rd, Duarte, CA 91010"
+  tags:
+  - healthcare
+  - executive
+  - medical
+  notes: "Chief Medical Officer - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: city-of-hope-research-director
+  name: Chief Scientific Officer - City of Hope
+  role: Chief Scientific Officer
+  organization: City of Hope
+  organization_type: corporate
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(800) 826-4673"
+    office_address: "1500 E Duarte Rd, Duarte, CA 91010"
+  tags:
+  - healthcare
+  - research
+  - executive
+  notes: "Leads research operations - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: city-of-hope-community-liaison
+  name: Community Relations Director - City of Hope
+  role: Director of Community Relations
+  organization: City of Hope
+  organization_type: corporate
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(800) 826-4673"
+    office_address: "1500 E Duarte Rd, Duarte, CA 91010"
+  tags:
+  - community
+  - outreach
+  - pr
+  notes: "Primary contact for community partnerships and events"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: kalpna-shah-chamber-executive
+  name: Kalpna Shah
+  role: Executive Director
+  organization: Duarte Chamber of Commerce
+  organization_type: business
+  neighborhoods:
+  - duarte
+  social:
+    email: executivedirector@duartechamber.com
+  contact:
+    phone: "(626) 357-3333"
+    office_address: "1735 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - chamber
+  - business
+  - economic-development
+  notes: "Executive Director managing day-to-day chamber operations"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-chamber-board-chair
+  name: Board Chair - Duarte Chamber
+  role: Board Chair
+  organization: Duarte Chamber of Commerce
+  organization_type: business
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-3333"
+    office_address: "1634 Third St, Duarte, CA 91010"
+  tags:
+  - chamber
+  - business
+  - board
+  notes: "Board leadership - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: walmart-duarte-manager
+  name: Store Manager - Walmart Duarte
+  role: Store Manager
+  organization: Walmart
+  organization_type: corporate
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 302-5450"
+    office_address: "1600 Mountain Ave, Duarte, CA 91010"
+  tags:
+  - retail
+  - employer
+  - manager
+  notes: "Major retail employer - verify current manager"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: target-duarte-manager
+  name: Store Director - Target Duarte
+  role: Store Director
+  organization: Target
+  organization_type: corporate
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-4277"
+    office_address: "1938 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - retail
+  - employer
+  - manager
+  notes: "Major retail employer - verify current store director"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: home-depot-duarte-manager
+  name: Store Manager - Home Depot Duarte
+  role: Store Manager
+  organization: The Home Depot
+  organization_type: corporate
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 303-3476"
+    office_address: "1575 Mountain Ave, Duarte, CA 91010"
+  tags:
+  - retail
+  - home-improvement
+  - employer
+  notes: "Major retail employer - verify current manager"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: ralphs-duarte-manager
+  name: Store Manager - Ralphs Duarte
+  role: Store Manager
+  organization: Ralphs (Kroger)
+  organization_type: corporate
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-3334"
+    office_address: "1193 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - grocery
+  - retail
+  - manager
+  notes: "Local grocery store manager"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: vons-duarte-manager
+  name: Store Director - Vons Duarte
+  role: Store Director
+  organization: Vons (Albertsons)
+  organization_type: corporate
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-9657"
+    office_address: "1059 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - grocery
+  - retail
+  - manager
+  notes: "Local grocery store director"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-economic-dev-manager
+  name: Economic Development Manager - City of Duarte
+  role: Economic Development Manager
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7931"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - economic-development
+  - business
+  - city
+  notes: "City staff supporting business development - verify current name"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: sce-community-manager
+  name: Community Relations Manager - Southern California Edison
+  role: Regional Community Relations Manager
+  organization: Southern California Edison
+  organization_type: corporate
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(800) 655-4555"
+  tags:
+  - utility
+  - community
+  - energy
+  notes: "SCE community liaison for San Gabriel Valley region"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: socalgas-community-manager
+  name: Community Relations Manager - SoCalGas
+  role: Regional Community Relations Manager
+  organization: SoCalGas
+  organization_type: corporate
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(800) 427-2200"
+  tags:
+  - utility
+  - community
+  - energy
+  notes: "SoCalGas community liaison for San Gabriel Valley"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# COMMUNITY & SOCIAL MEDIA LEADERS
+# ============================================
+
+- id: duarte-communications-director
+  name: Communications Director - City of Duarte
+  role: Communications Director / PIO
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7931"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - communications
+  - pio
+  - social-media
+  - city
+  notes: "Manages city social media and public communications"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: manuel-enriquez-parks-director
+  name: Manuel Enriquez
+  role: Parks & Recreation Director
+  organization: City of Duarte - Parks & Recreation
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7931 ext. 201"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - parks
+  - recreation
+  - events
+  - community
+  notes: "Director of Duarte Parks & Recreation Department"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-senior-center-coordinator
+  name: Senior Center Coordinator
+  role: Senior Center Coordinator
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-3513"
+    office_address: "1610 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - seniors
+  - community
+  - programs
+  notes: "Coordinates senior programs and services"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-teen-center-coordinator
+  name: Teen Center Coordinator
+  role: Teen Center Coordinator
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7931"
+    office_address: "Duarte, CA 91010"
+  tags:
+  - teens
+  - youth
+  - community
+  - programs
+  notes: "Coordinates teen programs and activities"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-neighborhood-watch-coordinator
+  name: Neighborhood Watch Coordinator
+  role: Neighborhood Watch Coordinator
+  organization: City of Duarte / LASD Temple Station
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 285-7171"
+  tags:
+  - safety
+  - neighborhood-watch
+  - community
+  - crime-prevention
+  notes: "Coordinates neighborhood watch programs with Sheriff's station"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: lasd-temple-community-liaison
+  name: Community Liaison - LASD Temple Station
+  role: Community Liaison Deputy
+  organization: LA County Sheriff - Temple Station
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 285-7171"
+    office_address: "8838 Las Tunas Dr, Temple City, CA 91780"
+  tags:
+  - law-enforcement
+  - community
+  - outreach
+  notes: "Sheriff's liaison for community programs and outreach"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: la-county-fire-pio-batallion7
+  name: PIO - LA County Fire Battalion 7
+  role: Public Information Officer
+  organization: LA County Fire Department
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(323) 881-2411"
+  tags:
+  - fire
+  - emergency
+  - pio
+  - communications
+  notes: "Fire department media contact for Duarte area"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-volunteer-coordinator
+  name: Volunteer Coordinator - City of Duarte
+  role: Volunteer Coordinator
+  organization: City of Duarte
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(626) 357-7931"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - volunteers
+  - community
+  - service
+  notes: "Coordinates city volunteer programs and community service"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: metro-gold-line-community
+  name: Community Relations - LA Metro Gold Line
+  role: Community Relations Specialist
+  organization: Los Angeles Metro
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(323) 466-3876"
+  tags:
+  - transit
+  - gold-line
+  - community
+  notes: "Community liaison for Metro Gold Line including Duarte/City of Hope station"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: foothill-transit-community
+  name: Community Relations - Foothill Transit
+  role: Community Relations Manager
+  organization: Foothill Transit
+  organization_type: government
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "(800) 743-3463"
+  tags:
+  - transit
+  - bus
+  - community
+  notes: "Community liaison for Foothill Transit serving Duarte"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: 211-la-county-contact
+  name: 211 LA County
+  role: Community Resource Helpline
+  organization: 211 LA County
+  organization_type: nonprofit
+  neighborhoods:
+  - duarte
+  contact:
+    phone: "211"
+  social:
+    website: https://www.211la.org/
+  tags:
+  - resources
+  - helpline
+  - social-services
+  - community
+  notes: "24/7 helpline connecting residents to community resources"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"

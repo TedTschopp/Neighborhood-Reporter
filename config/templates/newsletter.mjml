@@ -1,0 +1,225 @@
+<mjml>
+  <mj-head>
+    <mj-title>{{title}}</mj-title>
+    <mj-preview>{{preview}}</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif" />
+      <mj-text font-size="14px" line-height="1.6" color="#333333" />
+      <mj-section background-color="#ffffff" padding="20px" />
+    </mj-attributes>
+    <mj-style>
+      .category-header {
+        background-color: #f5f5f5;
+        border-left: 4px solid #0066cc;
+        padding: 10px 15px;
+        margin: 10px 0;
+      }
+      .article-title {
+        color: #0066cc;
+        text-decoration: none;
+      }
+      .article-title:hover {
+        text-decoration: underline;
+      }
+      .source-badge {
+        display: inline-block;
+        background-color: #e0e0e0;
+        color: #666;
+        padding: 2px 8px;
+        border-radius: 12px;
+        font-size: 11px;
+        margin-right: 8px;
+      }
+      .date-text {
+        color: #888;
+        font-size: 12px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f4f4f4">
+    <!-- Header -->
+    <mj-section background-color="#1a365d" padding="30px 20px">
+      <mj-column>
+        <mj-text color="#ffffff" font-size="28px" font-weight="bold" align="center">
+          📰 Neighborhood Reporter
+        </mj-text>
+        <mj-text color="#a0c4ff" font-size="16px" align="center" padding-top="5px">
+          {{neighborhood_name}} News Digest
+        </mj-text>
+        <mj-text color="#ffffff" font-size="14px" align="center" padding-top="10px">
+          {{date_formatted}}
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Summary Stats -->
+    <mj-section background-color="#f8fafc" padding="15px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="13px" color="#666">
+          {{item_count}} stories from {{source_count}} sources this week
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Municipal News Section -->
+    {{#if municipal_items}}
+    <mj-section padding="10px 20px 0">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold" color="#1a365d" padding-bottom="5px">
+          🏛️ Government & Municipal
+        </mj-text>
+        <mj-divider border-color="#1a365d" border-width="2px" padding="0" />
+      </mj-column>
+    </mj-section>
+    {{#each municipal_items}}
+    <mj-section padding="10px 20px">
+      <mj-column>
+        <mj-text>
+          <a href="{{this.url}}" class="article-title" style="color: #0066cc; text-decoration: none; font-weight: bold;">
+            {{this.title}}
+          </a>
+        </mj-text>
+        <mj-text padding-top="5px">
+          <span class="source-badge" style="background-color: #e0e0e0; padding: 2px 8px; border-radius: 12px; font-size: 11px;">{{this.source_name}}</span>
+          <span class="date-text" style="color: #888; font-size: 12px;">{{this.date_formatted}}</span>
+        </mj-text>
+        {{#if this.summary}}
+        <mj-text font-size="13px" color="#555" padding-top="5px">
+          {{this.summary}}
+        </mj-text>
+        {{/if}}
+      </mj-column>
+    </mj-section>
+    {{/each}}
+    {{/if}}
+
+    <!-- Local News Section -->
+    {{#if media_items}}
+    <mj-section padding="10px 20px 0">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold" color="#1a365d" padding-bottom="5px">
+          📰 Local News
+        </mj-text>
+        <mj-divider border-color="#1a365d" border-width="2px" padding="0" />
+      </mj-column>
+    </mj-section>
+    {{#each media_items}}
+    <mj-section padding="10px 20px">
+      <mj-column>
+        <mj-text>
+          <a href="{{this.url}}" class="article-title" style="color: #0066cc; text-decoration: none; font-weight: bold;">
+            {{this.title}}
+          </a>
+        </mj-text>
+        <mj-text padding-top="5px">
+          <span class="source-badge" style="background-color: #e0e0e0; padding: 2px 8px; border-radius: 12px; font-size: 11px;">{{this.source_name}}</span>
+          <span class="date-text" style="color: #888; font-size: 12px;">{{this.date_formatted}}</span>
+        </mj-text>
+        {{#if this.summary}}
+        <mj-text font-size="13px" color="#555" padding-top="5px">
+          {{this.summary}}
+        </mj-text>
+        {{/if}}
+      </mj-column>
+    </mj-section>
+    {{/each}}
+    {{/if}}
+
+    <!-- Civic & Community Section -->
+    {{#if civic_items}}
+    <mj-section padding="10px 20px 0">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold" color="#1a365d" padding-bottom="5px">
+          🏘️ Community & Civic
+        </mj-text>
+        <mj-divider border-color="#1a365d" border-width="2px" padding="0" />
+      </mj-column>
+    </mj-section>
+    {{#each civic_items}}
+    <mj-section padding="10px 20px">
+      <mj-column>
+        <mj-text>
+          <a href="{{this.url}}" class="article-title" style="color: #0066cc; text-decoration: none; font-weight: bold;">
+            {{this.title}}
+          </a>
+        </mj-text>
+        <mj-text padding-top="5px">
+          <span class="source-badge" style="background-color: #e0e0e0; padding: 2px 8px; border-radius: 12px; font-size: 11px;">{{this.source_name}}</span>
+          <span class="date-text" style="color: #888; font-size: 12px;">{{this.date_formatted}}</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    {{/each}}
+    {{/if}}
+
+    <!-- Education Section -->
+    {{#if educational_items}}
+    <mj-section padding="10px 20px 0">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold" color="#1a365d" padding-bottom="5px">
+          🎓 Education
+        </mj-text>
+        <mj-divider border-color="#1a365d" border-width="2px" padding="0" />
+      </mj-column>
+    </mj-section>
+    {{#each educational_items}}
+    <mj-section padding="10px 20px">
+      <mj-column>
+        <mj-text>
+          <a href="{{this.url}}" class="article-title" style="color: #0066cc; text-decoration: none; font-weight: bold;">
+            {{this.title}}
+          </a>
+        </mj-text>
+        <mj-text padding-top="5px">
+          <span class="source-badge" style="background-color: #e0e0e0; padding: 2px 8px; border-radius: 12px; font-size: 11px;">{{this.source_name}}</span>
+          <span class="date-text" style="color: #888; font-size: 12px;">{{this.date_formatted}}</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    {{/each}}
+    {{/if}}
+
+    <!-- Other News Section -->
+    {{#if other_items}}
+    <mj-section padding="10px 20px 0">
+      <mj-column>
+        <mj-text font-size="18px" font-weight="bold" color="#1a365d" padding-bottom="5px">
+          📌 More News
+        </mj-text>
+        <mj-divider border-color="#1a365d" border-width="2px" padding="0" />
+      </mj-column>
+    </mj-section>
+    {{#each other_items}}
+    <mj-section padding="10px 20px">
+      <mj-column>
+        <mj-text>
+          <a href="{{this.url}}" class="article-title" style="color: #0066cc; text-decoration: none; font-weight: bold;">
+            {{this.title}}
+          </a>
+        </mj-text>
+        <mj-text padding-top="5px">
+          <span class="source-badge" style="background-color: #e0e0e0; padding: 2px 8px; border-radius: 12px; font-size: 11px;">{{this.source_name}}</span>
+          <span class="date-text" style="color: #888; font-size: 12px;">{{this.date_formatted}}</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    {{/each}}
+    {{/if}}
+
+    <!-- Footer -->
+    <mj-section background-color="#1a365d" padding="20px">
+      <mj-column>
+        <mj-text color="#ffffff" align="center" font-size="12px">
+          Neighborhood Reporter - Keeping communities informed
+        </mj-text>
+        <mj-text color="#a0c4ff" align="center" font-size="11px" padding-top="10px">
+          Generated on {{generated_at}}
+        </mj-text>
+        <mj-text color="#a0c4ff" align="center" font-size="11px" padding-top="5px">
+          <a href="{{unsubscribe_url}}" style="color: #a0c4ff;">Unsubscribe</a> | 
+          <a href="{{preferences_url}}" style="color: #a0c4ff;">Update Preferences</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,37 @@
+# Duarte, California
+# City in Los Angeles County
+
+id: duarte
+name: Duarte
+slug: duarte
+aliases:
+- City of Duarte
+region: San Gabriel Valley
+city: Duarte
+state: CA
+country: US
+zip_codes:
+- "91010"
+boundaries:
+  north: Angeles National Forest
+  south: Irwindale
+  east: Azusa
+  west: Monrovia
+coordinates:
+  latitude: 34.1395
+  longitude: -117.9773
+population: 22000
+council_district: "City Council"
+school_district: Duarte Unified School District
+police_division: Los Angeles County Sheriff - Temple Station
+fire_district: Los Angeles County Fire Department
+tags:
+- suburban
+- san-gabriel-valley
+- city-of-hope
+- foothills
+description: >
+  Duarte is a city in Los Angeles County, California, located in the San Gabriel  Valley at the foot of the San Gabriel Mountains. It is home to City of Hope  National Medical Center, a leading cancer research and treatment facility.
+active: true
+created_at: "2025-12-18"
+updated_at: "2025-12-18"

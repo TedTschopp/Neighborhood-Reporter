@@ -1,0 +1,155 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "leaders-schema",
+  "title": "Leaders",
+  "description": "Schema for organizational leader definitions",
+  "type": "object",
+  "required": ["leaders"],
+  "properties": {
+    "leaders": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "role", "organization", "organization_type", "active"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$",
+            "description": "Unique identifier (lowercase, hyphens only)"
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Full name"
+          },
+          "title": {
+            "type": "string",
+            "description": "Professional title (e.g., Dr., Rev., Hon.)"
+          },
+          "role": {
+            "type": "string",
+            "description": "Position/role in organization"
+          },
+          "organization": {
+            "type": "string",
+            "description": "Organization name"
+          },
+          "organization_type": {
+            "type": "string",
+            "enum": ["government", "nonprofit", "business", "religious", "educational", "media", "community", "civic", "corporate"],
+            "description": "Type of organization"
+          },
+          "department": {
+            "type": "string",
+            "description": "Department or division within organization"
+          },
+          "neighborhoods": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "List of neighborhood IDs this leader serves"
+          },
+          "district": {
+            "type": "string",
+            "description": "District name/number if applicable"
+          },
+          "contact": {
+            "type": "object",
+            "properties": {
+              "email": { "type": "string", "format": "email" },
+              "phone": { "type": "string" },
+              "office_phone": { "type": "string" },
+              "mobile": { "type": "string" },
+              "fax": { "type": "string" },
+              "office_address": { "type": "string" },
+              "mailing_address": { "type": "string" },
+              "website": { "type": "string", "format": "uri" },
+              "scheduling_url": { "type": "string", "format": "uri" }
+            },
+            "description": "Contact information"
+          },
+          "social": {
+            "type": "object",
+            "properties": {
+              "twitter": { "type": "string" },
+              "facebook": { "type": "string" },
+              "instagram": { "type": "string" },
+              "linkedin": { "type": "string" },
+              "youtube": { "type": "string" },
+              "threads": { "type": "string" },
+              "bluesky": { "type": "string" },
+              "mastodon": { "type": "string" }
+            },
+            "description": "Social media handles"
+          },
+          "bio": {
+            "type": "string",
+            "description": "Brief biography"
+          },
+          "photo_url": {
+            "type": "string",
+            "format": "uri",
+            "description": "Profile photo URL"
+          },
+          "term_start": {
+            "type": "string",
+            "format": "date",
+            "description": "Start date of current term"
+          },
+          "term_end": {
+            "type": "string",
+            "format": "date",
+            "description": "End date of current term"
+          },
+          "elected": {
+            "type": "boolean",
+            "description": "Whether this is an elected position"
+          },
+          "public_directory": {
+            "type": "boolean",
+            "default": false,
+            "description": "Whether contact info should be public-facing"
+          },
+          "is_news_source": {
+            "type": "boolean",
+            "default": false,
+            "description": "Whether this leader produces trackable news content"
+          },
+          "source_urls": {
+            "type": "array",
+            "items": { "type": "string", "format": "uri" },
+            "description": "URLs where this leader publishes content"
+          },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Topic tags"
+          },
+          "notes": {
+            "type": "string",
+            "description": "Editorial notes (not public)"
+          },
+          "active": {
+            "type": "boolean",
+            "default": true,
+            "description": "Whether this leader is currently in position"
+          },
+          "verified": {
+            "type": "boolean",
+            "default": false,
+            "description": "Whether this information has been verified"
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date"
+          },
+          "updated_at": {
+            "type": "string",
+            "format": "date"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

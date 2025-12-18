@@ -1,0 +1,43 @@
+{
+  "name": "neighborhood-reporter",
+  "version": "1.0.0",
+  "description": "A neighborhood news aggregation API and newsletter system that consolidates local news from social, civic, corporate, religious, educational, and municipal sources",
+  "type": "module",
+  "main": "scripts/build-api.js",
+  "scripts": {
+    "fetch": "node scripts/fetch-feeds.js",
+    "build:api": "node scripts/build-api.js",
+    "build:newsletter": "node scripts/generate-newsletter.js",
+    "build:profile": "node scripts/generate-profile.js",
+    "scan:social": "node scripts/scan-social-profiles.js",
+    "validate": "node scripts/validate-data.js",
+    "build": "npm run validate && npm run build:api",
+    "start": "npm run build && npx serve api",
+    "dev": "npx serve web"
+  },
+  "keywords": [
+    "news",
+    "local-news",
+    "neighborhood",
+    "newsletter",
+    "rss",
+    "aggregator",
+    "community"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "date-fns": "^4.1.0",
+    "js-yaml": "^4.1.0",
+    "mjml": "^4.15.3",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,120 @@
+# Global settings for Neighborhood Reporter
+# This file configures default behavior for the application
+
+# Application Info
+app:
+  name: Neighborhood Reporter
+  version: 1.0.0
+  description: Local news aggregation for neighborhoods
+
+# Default settings for data fetching
+fetch:
+  # Delay between RSS requests (milliseconds)
+  rate_limit_ms: 500
+  # Request timeout (milliseconds)
+  timeout_ms: 10000
+  # Maximum items to fetch per source
+  max_items_per_source: 50
+  # How many days of content to keep
+  retention_days: 30
+
+# Newsletter settings
+newsletter:
+  # Maximum items per category in newsletter
+  max_items_per_category: 10
+  # Days of content to include
+  lookback_days: 7
+  # Default sender info
+  from_name: Neighborhood Reporter
+  from_email: newsletter@example.com
+
+# API settings
+api:
+  # Base path for API output
+  base_path: /api/v1
+  # Whether to include private notes in API output
+  include_notes: false
+  # Whether to include unverified sources
+  include_unverified: true
+
+# Categories and their display order
+categories:
+- id: municipal
+  label: Government & Municipal
+  icon: 🏛️
+  priority: 1
+- id: media
+  label: News Media
+  icon: 📰
+  priority: 2
+- id: local-news
+  label: Local News
+  icon: 📰
+  priority: 3
+- id: civic
+  label: Civic & Community
+  icon: 🏘️
+  priority: 4
+- id: educational
+  label: Education
+  icon: 🎓
+  priority: 5
+- id: religious
+  label: Religious
+  icon: ⛪
+  priority: 6
+- id: corporate
+  label: Business & Corporate
+  icon: 🏢
+  priority: 7
+- id: social
+  label: Social Media
+  icon: 💬
+  priority: 8
+- id: public-safety
+  label: Public Safety
+  icon: 🚨
+  priority: 9
+- id: events
+  label: Events
+  icon: 📅
+  priority: 10
+- id: transit
+  label: Transit
+  icon: 🚇
+  priority: 11
+- id: hyperlocal
+  label: Hyperlocal
+  icon: 📍
+  priority: 12
+- id: other
+  label: Other
+  icon: 📌
+  priority: 99
+
+# Media types
+media_types:
+- id: newspaper
+  label: Newspaper
+  icon: 📰
+- id: television
+  label: TV Station
+  icon: 📺
+- id: radio
+  label: Radio Station
+  icon: 📻
+- id: podcast
+  label: Podcast
+  icon: 🎙️
+- id: newsletter
+  label: Newsletter
+  icon: ✉️
+- id: online
+  label: Online Publication
+  icon: 🌐
+- id: social-media
+  label: Social Media
+  icon: 💬
+- id: blog
+  label: Blog
+  icon: 📝

@@ -1,0 +1,1357 @@
+# Corporate and Business Sources in Duarte
+# Comprehensive listing of major employers, retail, dining, and local businesses
+
+sources:
+# ============================================
+# CITY OF HOPE - MAJOR INSTITUTION
+# ============================================
+
+- id: city-of-hope
+  name: City of Hope National Medical Center
+  type: rss
+  category: corporate
+  media_type: online
+  organization: City of Hope
+  organization_type: corporate
+  url: https://www.cityofhope.org/
+  feed_url: https://www.cityofhope.org/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: national
+  reliability_score: 10
+  frequency: daily
+  language: en
+  contact:
+    phone: "(800) 826-4673"
+    office_address: "1500 E Duarte Rd, Duarte, CA 91010"
+    website: https://www.cityofhope.org/contact-us
+  tags:
+  - healthcare
+  - research
+  - cancer
+  - hospital
+  - major-employer
+  - nci-designated
+  notes: "NCI-designated comprehensive cancer center. One of Duarte's largest employers with 8,000+ employees. World-renowned research and treatment facility."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: city-of-hope-facebook
+  name: City of Hope Facebook
+  type: social
+  category: corporate
+  media_type: social
+  organization: City of Hope
+  organization_type: corporate
+  url: https://www.facebook.com/cityofhope/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: national
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - healthcare
+  - research
+  - community
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: city-of-hope-twitter
+  name: City of Hope X (Twitter)
+  type: social
+  category: corporate
+  media_type: social
+  organization: City of Hope
+  organization_type: corporate
+  url: https://twitter.com/cityofhope
+  social_platform: twitter
+  neighborhoods:
+  - duarte
+  coverage_area: national
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - healthcare
+  - research
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: city-of-hope-linkedin
+  name: City of Hope LinkedIn
+  type: social
+  category: corporate
+  media_type: social
+  organization: City of Hope
+  organization_type: corporate
+  url: https://www.linkedin.com/company/city-of-hope/
+  social_platform: linkedin
+  neighborhoods:
+  - duarte
+  coverage_area: national
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - healthcare
+  - careers
+  - research
+  notes: "Job postings and professional updates"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: city-of-hope-instagram
+  name: City of Hope Instagram
+  type: social
+  category: corporate
+  media_type: social
+  organization: City of Hope
+  organization_type: corporate
+  url: https://www.instagram.com/cityofhope/
+  social_platform: instagram
+  neighborhoods:
+  - duarte
+  coverage_area: national
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - healthcare
+  - community
+  - stories
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: city-of-hope-youtube
+  name: City of Hope YouTube
+  type: social
+  category: corporate
+  media_type: social
+  organization: City of Hope
+  organization_type: corporate
+  url: https://www.youtube.com/cityofhope
+  social_platform: youtube
+  neighborhoods:
+  - duarte
+  coverage_area: national
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - healthcare
+  - education
+  - videos
+  notes: "Patient stories, research updates, and educational content"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: city-of-hope-careers
+  name: City of Hope Careers
+  type: manual
+  category: corporate
+  media_type: online
+  organization: City of Hope
+  organization_type: corporate
+  url: https://www.cityofhope.org/careers
+  neighborhoods:
+  - duarte
+  coverage_area: national
+  reliability_score: 10
+  frequency: daily
+  language: en
+  tags:
+  - careers
+  - jobs
+  - employment
+  - healthcare
+  notes: "Major local employer - medical, research, and administrative positions"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: city-of-hope-foundation
+  name: City of Hope Foundation
+  type: manual
+  category: corporate
+  media_type: online
+  organization: City of Hope
+  organization_type: nonprofit
+  url: https://www.cityofhope.org/giving
+  neighborhoods:
+  - duarte
+  coverage_area: national
+  reliability_score: 9
+  frequency: monthly
+  language: en
+  tags:
+  - nonprofit
+  - fundraising
+  - philanthropy
+  - events
+  notes: "Fundraising arm - hosts community events and campaigns"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# BUSINESS ASSOCIATIONS & ECONOMIC DEVELOPMENT
+# ============================================
+
+- id: duarte-chamber-commerce
+  name: Duarte Chamber of Commerce
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Duarte Chamber of Commerce
+  organization_type: business
+  url: https://www.duartechamber.com/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-3333"
+    office_address: "1634 Third St, Duarte, CA 91010"
+  tags:
+  - business
+  - chamber
+  - networking
+  - economic-development
+  notes: "Supports local businesses, hosts networking events, and advocates for business interests"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-chamber-facebook
+  name: Duarte Chamber of Commerce Facebook
+  type: social
+  category: corporate
+  media_type: social
+  organization: Duarte Chamber of Commerce
+  organization_type: business
+  url: https://www.facebook.com/DuarteChamber/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  tags:
+  - business
+  - events
+  - networking
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-economic-development
+  name: City of Duarte Economic Development
+  type: manual
+  category: corporate
+  media_type: online
+  organization: City of Duarte
+  organization_type: government
+  url: https://www.accessduarte.com/business
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 357-7931"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - economic-development
+  - business
+  - permits
+  - incentives
+  notes: "City resources for businesses - permits, incentives, and development opportunities"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# MAJOR RETAIL - BIG BOX STORES
+# ============================================
+
+- id: walmart-duarte
+  name: Walmart Supercenter Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Walmart
+  organization_type: corporate
+  url: https://www.walmart.com/store/2440-duarte-ca
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 302-5450"
+    office_address: "1600 Mountain Ave, Duarte, CA 91010"
+  tags:
+  - retail
+  - shopping
+  - grocery
+  - employer
+  notes: "Major retailer and local employer"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: target-duarte
+  name: Target Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Target
+  organization_type: corporate
+  url: https://www.target.com/sl/duarte/1875
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 357-4277"
+    office_address: "1938 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - retail
+  - shopping
+  - grocery
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: costco-azusa
+  name: Costco Wholesale (Azusa)
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Costco
+  organization_type: corporate
+  url: https://www.costco.com/warehouse-locations/azusa-ca-162.html
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 804-8801"
+    office_address: "1300 S Azusa Ave, Azusa, CA 91702"
+  tags:
+  - retail
+  - wholesale
+  - grocery
+  notes: "Nearest Costco to Duarte - in neighboring Azusa"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: home-depot-duarte
+  name: The Home Depot Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: The Home Depot
+  organization_type: corporate
+  url: https://www.homedepot.com/l/Duarte/CA/Duarte/91010/1816
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 303-3476"
+    office_address: "1575 Mountain Ave, Duarte, CA 91010"
+  tags:
+  - retail
+  - home-improvement
+  - hardware
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: lowes-monrovia
+  name: Lowe's Home Improvement (Monrovia)
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Lowe's
+  organization_type: corporate
+  url: https://www.lowes.com/store/CA-Monrovia/0714
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 305-0414"
+    office_address: "601 W Huntington Dr, Monrovia, CA 91016"
+  tags:
+  - retail
+  - home-improvement
+  - hardware
+  notes: "Nearby in Monrovia - serves Duarte area"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# GROCERY & SUPERMARKETS
+# ============================================
+
+- id: ralphs-duarte
+  name: Ralphs Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Ralphs (Kroger)
+  organization_type: corporate
+  url: https://www.ralphs.com/stores/details/706/00285
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-3334"
+    office_address: "1193 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - grocery
+  - supermarket
+  - food
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: vons-duarte
+  name: Vons Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Vons (Albertsons)
+  organization_type: corporate
+  url: https://local.vons.com/ca/duarte.html
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-9657"
+    office_address: "1059 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - grocery
+  - supermarket
+  - pharmacy
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: trader-joes-monrovia
+  name: Trader Joe's (Monrovia)
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Trader Joe's
+  organization_type: corporate
+  url: https://locations.traderjoes.com/ca/monrovia/117/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 358-8884"
+    office_address: "612 W Huntington Dr, Monrovia, CA 91016"
+  tags:
+  - grocery
+  - specialty
+  - food
+  notes: "Nearest Trader Joe's - in neighboring Monrovia"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: sprouts-monrovia
+  name: Sprouts Farmers Market (Monrovia)
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Sprouts Farmers Market
+  organization_type: corporate
+  url: https://www.sprouts.com/store/ca/monrovia/monrovia/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 256-6072"
+    office_address: "604 E Huntington Dr, Monrovia, CA 91016"
+  tags:
+  - grocery
+  - organic
+  - health-food
+  notes: "Nearby natural/organic grocery in Monrovia"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: 99-ranch-market-arcadia
+  name: 99 Ranch Market (Arcadia)
+  type: manual
+  category: corporate
+  media_type: online
+  organization: 99 Ranch Market
+  organization_type: corporate
+  url: https://www.99ranch.com/store-locator
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 445-8899"
+    office_address: "1300 S Golden West Ave, Arcadia, CA 91007"
+  tags:
+  - grocery
+  - asian
+  - specialty
+  - international
+  notes: "Major Asian supermarket serving San Gabriel Valley"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# PHARMACY & HEALTHCARE RETAIL
+# ============================================
+
+- id: cvs-duarte
+  name: CVS Pharmacy Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: CVS Health
+  organization_type: corporate
+  url: https://www.cvs.com/store-locator/duarte-ca-pharmacies
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-1116"
+    office_address: "1040 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - pharmacy
+  - healthcare
+  - retail
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: walgreens-duarte
+  name: Walgreens Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Walgreens
+  organization_type: corporate
+  url: https://www.walgreens.com/locator/walgreens-duarte
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-6277"
+    office_address: "1401 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - pharmacy
+  - healthcare
+  - retail
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# BANKING & FINANCIAL SERVICES
+# ============================================
+
+- id: wells-fargo-duarte
+  name: Wells Fargo Bank Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Wells Fargo
+  organization_type: corporate
+  url: https://www.wellsfargo.com/locator/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 357-8361"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - banking
+  - financial
+  - atm
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: chase-bank-duarte
+  name: Chase Bank Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: JPMorgan Chase
+  organization_type: corporate
+  url: https://locator.chase.com/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 358-1944"
+    office_address: "1131 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - banking
+  - financial
+  - atm
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: bank-of-america-duarte
+  name: Bank of America Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Bank of America
+  organization_type: corporate
+  url: https://locators.bankofamerica.com/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  contact:
+    office_address: "Duarte, CA 91010"
+  tags:
+  - banking
+  - financial
+  - atm
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: credit-union-schools-first
+  name: SchoolsFirst Federal Credit Union
+  type: manual
+  category: corporate
+  media_type: online
+  organization: SchoolsFirst FCU
+  organization_type: corporate
+  url: https://www.schoolsfirstfcu.org/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  tags:
+  - credit-union
+  - banking
+  - financial
+  - educators
+  notes: "Credit union serving educators - branches in San Gabriel Valley"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# RESTAURANTS & DINING
+# ============================================
+
+- id: in-n-out-duarte
+  name: In-N-Out Burger Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: In-N-Out Burger
+  organization_type: corporate
+  url: https://www.in-n-out.com/locations
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(800) 786-1000"
+    office_address: "1371 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - restaurant
+  - fast-food
+  - burgers
+  - iconic
+  notes: "Popular California fast-food chain"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: chilis-duarte
+  name: Chili's Grill & Bar Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Chili's
+  organization_type: corporate
+  url: https://www.chilis.com/locations
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 357-0940"
+    office_address: "1501 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - restaurant
+  - casual-dining
+  - american
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: starbucks-duarte
+  name: Starbucks Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Starbucks
+  organization_type: corporate
+  url: https://www.starbucks.com/store-locator
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    office_address: "Duarte, CA 91010"
+  tags:
+  - coffee
+  - cafe
+  - breakfast
+  notes: "Multiple locations in Duarte area"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: mcdonalds-duarte
+  name: McDonald's Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: McDonald's
+  organization_type: corporate
+  url: https://www.mcdonalds.com/us/en-us/restaurant-locator.html
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 357-0456"
+    office_address: "1529 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - restaurant
+  - fast-food
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: panda-express-duarte
+  name: Panda Express Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Panda Express
+  organization_type: corporate
+  url: https://www.pandaexpress.com/locations
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    office_address: "1600 Mountain Ave, Duarte, CA 91010"
+  tags:
+  - restaurant
+  - fast-food
+  - chinese
+  - asian
+  notes: "Located in Walmart shopping center"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: yelp-duarte-restaurants
+  name: Yelp - Duarte Restaurants
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Yelp
+  organization_type: media
+  url: https://www.yelp.com/search?find_loc=Duarte%2C+CA&cflt=restaurants
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: daily
+  language: en
+  tags:
+  - restaurants
+  - reviews
+  - directory
+  - local-business
+  notes: "Community reviews of local restaurants"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# AUTO SERVICES
+# ============================================
+
+- id: autozone-duarte
+  name: AutoZone Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: AutoZone
+  organization_type: corporate
+  url: https://www.autozone.com/locations/ca/duarte
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 357-8080"
+    office_address: "1180 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - auto
+  - parts
+  - retail
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: oreilly-auto-duarte
+  name: O'Reilly Auto Parts Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: O'Reilly Auto Parts
+  organization_type: corporate
+  url: https://www.oreillyauto.com/store-locator
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    office_address: "Duarte, CA 91010"
+  tags:
+  - auto
+  - parts
+  - retail
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# FITNESS & WELLNESS
+# ============================================
+
+- id: planet-fitness-duarte
+  name: Planet Fitness Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Planet Fitness
+  organization_type: corporate
+  url: https://www.planetfitness.com/gyms/duarte-ca
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 359-4002"
+    office_address: "1008 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - fitness
+  - gym
+  - health
+  - wellness
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: 24-hour-fitness-monrovia
+  name: 24 Hour Fitness (Monrovia)
+  type: manual
+  category: corporate
+  media_type: online
+  organization: 24 Hour Fitness
+  organization_type: corporate
+  url: https://www.24hourfitness.com/gyms/monrovia-ca/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  contact:
+    office_address: "Monrovia, CA 91016"
+  tags:
+  - fitness
+  - gym
+  - health
+  notes: "Nearby in Monrovia"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# GAS STATIONS & CONVENIENCE
+# ============================================
+
+- id: chevron-duarte
+  name: Chevron Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Chevron
+  organization_type: corporate
+  url: https://www.chevron.com/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 6
+  frequency: monthly
+  language: en
+  tags:
+  - gas-station
+  - fuel
+  - convenience
+  notes: "Multiple Chevron locations in Duarte"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: shell-duarte
+  name: Shell Gas Station Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Shell
+  organization_type: corporate
+  url: https://www.shell.us/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 6
+  frequency: monthly
+  language: en
+  tags:
+  - gas-station
+  - fuel
+  - convenience
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# HOTELS & LODGING
+# ============================================
+
+- id: city-of-hope-helford-inn
+  name: Helford Clinical Research Hospital Guest Lodging
+  type: manual
+  category: corporate
+  media_type: online
+  organization: City of Hope
+  organization_type: corporate
+  url: https://www.cityofhope.org/patients/patient-support/lodging
+  neighborhoods:
+  - duarte
+  coverage_area: national
+  reliability_score: 9
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(800) 826-4673"
+    office_address: "1500 E Duarte Rd, Duarte, CA 91010"
+  tags:
+  - lodging
+  - hospital
+  - patient-services
+  notes: "Patient and family lodging at City of Hope campus"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: hampton-inn-monrovia
+  name: Hampton Inn & Suites Monrovia
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Hilton
+  organization_type: corporate
+  url: https://www.hilton.com/en/hotels/laxmohx-hampton-suites-monrovia/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 357-5788"
+    office_address: "311 E Huntington Dr, Monrovia, CA 91016"
+  tags:
+  - hotel
+  - lodging
+  - travel
+  notes: "Nearby hotel serving City of Hope visitors and business travelers"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: doubletree-monrovia
+  name: DoubleTree by Hilton Monrovia
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Hilton
+  organization_type: corporate
+  url: https://www.hilton.com/en/hotels/laxdtdt-doubletree-monrovia-pasadena/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 357-1900"
+    office_address: "924 W Huntington Dr, Monrovia, CA 91016"
+  tags:
+  - hotel
+  - lodging
+  - travel
+  notes: "Full-service hotel near Duarte"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# REAL ESTATE
+# ============================================
+
+- id: zillow-duarte
+  name: Zillow - Duarte Real Estate
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Zillow
+  organization_type: media
+  url: https://www.zillow.com/duarte-ca/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - real-estate
+  - housing
+  - property
+  - market
+  notes: "Duarte home listings and market data"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: redfin-duarte
+  name: Redfin - Duarte Homes
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Redfin
+  organization_type: media
+  url: https://www.redfin.com/city/4974/CA/Duarte
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - real-estate
+  - housing
+  - property
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# JOB & EMPLOYMENT RESOURCES
+# ============================================
+
+- id: indeed-duarte-jobs
+  name: Indeed - Duarte Jobs
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Indeed
+  organization_type: media
+  url: https://www.indeed.com/jobs?l=Duarte%2C+CA
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - jobs
+  - employment
+  - careers
+  - hiring
+  notes: "Local job listings for Duarte and surrounding area"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: linkedin-duarte-jobs
+  name: LinkedIn Jobs - Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: LinkedIn
+  organization_type: media
+  url: https://www.linkedin.com/jobs/duarte-ca-jobs/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - jobs
+  - employment
+  - careers
+  - professional
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# UTILITY COMPANIES
+# ============================================
+
+- id: socal-edison
+  name: Southern California Edison
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Southern California Edison
+  organization_type: corporate
+  url: https://www.sce.com/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 10
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(800) 655-4555"
+  tags:
+  - utility
+  - electricity
+  - energy
+  - outages
+  notes: "Electric utility serving Duarte"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: socal-gas
+  name: Southern California Gas Company
+  type: manual
+  category: corporate
+  media_type: online
+  organization: SoCalGas
+  organization_type: corporate
+  url: https://www.socalgas.com/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 10
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(800) 427-2200"
+  tags:
+  - utility
+  - gas
+  - energy
+  notes: "Natural gas utility serving Duarte"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: spectrum-duarte
+  name: Spectrum (Charter Communications)
+  type: manual
+  category: corporate
+  media_type: online
+  organization: Charter Communications
+  organization_type: corporate
+  url: https://www.spectrum.com/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(833) 267-6094"
+  tags:
+  - utility
+  - cable
+  - internet
+  - phone
+  notes: "Cable TV and internet provider in Duarte"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: att-duarte
+  name: AT&T Duarte
+  type: manual
+  category: corporate
+  media_type: online
+  organization: AT&T
+  organization_type: corporate
+  url: https://www.att.com/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(800) 288-2020"
+  tags:
+  - utility
+  - phone
+  - internet
+  - wireless
+  notes: "Phone, internet, and wireless services"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"

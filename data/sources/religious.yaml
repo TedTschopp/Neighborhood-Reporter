@@ -1,0 +1,884 @@
+# Religious Organizations in Duarte
+# Comprehensive listing of churches, temples, and faith-based organizations
+
+sources:
+# ============================================
+# CATHOLIC CHURCHES
+# ============================================
+
+- id: immaculate-conception-church
+  name: Immaculate Conception Catholic Church
+  type: manual
+  category: religious
+  media_type: online
+  organization: Immaculate Conception Parish
+  organization_type: religious
+  url: https://iccduarte.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-2116"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - church
+  - catholic
+  - mass
+  - sacraments
+  - archdiocese-la
+  notes: "Part of the Archdiocese of Los Angeles - offers Mass in English and Spanish"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: immaculate-conception-facebook
+  name: Immaculate Conception Church Facebook
+  type: social
+  category: religious
+  media_type: social
+  organization: Immaculate Conception Parish
+  organization_type: religious
+  url: https://www.facebook.com/iccduarte/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  tags:
+  - church
+  - catholic
+  - social-media
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: immaculate-conception-school-rel
+  name: Immaculate Conception Catholic School
+  type: manual
+  category: religious
+  media_type: online
+  organization: Immaculate Conception Parish
+  organization_type: religious
+  url: https://iccduarte.org/school
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-3720"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - school
+  - catholic
+  - k-8
+  - parochial
+  notes: "Catholic K-8 school - part of Archdiocese of Los Angeles school system"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: icc-religious-education
+  name: ICC Religious Education / CCD
+  type: manual
+  category: religious
+  media_type: online
+  organization: Immaculate Conception Parish
+  organization_type: religious
+  url: https://iccduarte.org/religious-education
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  tags:
+  - religious-education
+  - catholic
+  - ccd
+  - faith-formation
+  - youth
+  notes: "Religious education programs for children and teens"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: icc-knights-of-columbus
+  name: Knights of Columbus - ICC Council
+  type: manual
+  category: religious
+  media_type: online
+  organization: Knights of Columbus
+  organization_type: religious
+  url: https://www.kofc.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  tags:
+  - catholic
+  - fraternal
+  - service
+  - men
+  notes: "Catholic men's fraternal organization at ICC"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# PROTESTANT - MAINLINE DENOMINATIONS
+# ============================================
+
+- id: first-presbyterian-duarte
+  name: First Presbyterian Church of Duarte
+  type: manual
+  category: religious
+  media_type: online
+  organization: First Presbyterian Church
+  organization_type: religious
+  url: https://www.fpcduarte.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-7911"
+    office_address: "1500 Royal Oaks Dr, Duarte, CA 91010"
+  tags:
+  - church
+  - presbyterian
+  - pcusa
+  - community
+  notes: "Presbyterian Church (USA) congregation"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: wesley-united-methodist
+  name: Wesley United Methodist Church
+  type: manual
+  category: religious
+  media_type: online
+  organization: Wesley United Methodist Church
+  organization_type: religious
+  url: https://www.wesleyumcduarte.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-7651"
+    office_address: "2114 W Huntington Dr, Duarte, CA 91010"
+  tags:
+  - church
+  - methodist
+  - umc
+  - community
+  notes: "United Methodist Church congregation"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: hope-lutheran-duarte
+  name: Hope Lutheran Church
+  type: manual
+  category: religious
+  media_type: online
+  organization: Hope Lutheran Church
+  organization_type: religious
+  url: https://www.hopechurchduarte.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-4674"
+    office_address: "1801 Oak Ave, Duarte, CA 91010"
+  tags:
+  - church
+  - lutheran
+  - elca
+  - community
+  notes: "Evangelical Lutheran Church in America (ELCA) congregation"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: hope-lutheran-facebook
+  name: Hope Lutheran Church Facebook
+  type: social
+  category: religious
+  media_type: social
+  organization: Hope Lutheran Church
+  organization_type: religious
+  url: https://www.facebook.com/HopeLutheranDuarte/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  tags:
+  - church
+  - lutheran
+  - social-media
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# PROTESTANT - EVANGELICAL & NON-DENOMINATIONAL
+# ============================================
+
+- id: duarte-church-of-christ
+  name: Duarte Church of Christ
+  type: manual
+  category: religious
+  media_type: online
+  organization: Church of Christ
+  organization_type: religious
+  url: https://www.duartechurchofchrist.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-4756"
+    office_address: "901 S Highland Ave, Duarte, CA 91010"
+  tags:
+  - church
+  - church-of-christ
+  - community
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: first-baptist-duarte
+  name: First Baptist Church of Duarte
+  type: manual
+  category: religious
+  media_type: online
+  organization: First Baptist Church
+  organization_type: religious
+  url: https://www.fbcduarte.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-7626"
+    office_address: "2012 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - church
+  - baptist
+  - community
+  - evangelical
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: calvary-chapel-duarte
+  name: Calvary Chapel Duarte
+  type: manual
+  category: religious
+  media_type: online
+  organization: Calvary Chapel
+  organization_type: religious
+  url: https://www.calvarychapelduarte.com/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    office_address: "Duarte, CA 91010"
+  tags:
+  - church
+  - calvary-chapel
+  - non-denominational
+  - evangelical
+  notes: "Part of Calvary Chapel movement"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: grace-community-duarte
+  name: Grace Community Church Duarte
+  type: manual
+  category: religious
+  media_type: online
+  organization: Grace Community Church
+  organization_type: religious
+  url: https://www.gracechurchduarte.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  tags:
+  - church
+  - non-denominational
+  - community
+  - evangelical
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: new-life-assembly-duarte
+  name: New Life Assembly of God
+  type: manual
+  category: religious
+  media_type: online
+  organization: Assemblies of God
+  organization_type: religious
+  url: https://www.newlifeduarte.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  tags:
+  - church
+  - assembly-of-god
+  - pentecostal
+  - community
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# SPANISH-LANGUAGE & HISPANIC MINISTRY
+# ============================================
+
+- id: iglesia-de-dios-duarte
+  name: Iglesia de Dios Duarte
+  type: manual
+  category: religious
+  media_type: online
+  organization: Iglesia de Dios
+  organization_type: religious
+  url: https://www.iglesiadedios.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: es
+  tags:
+  - church
+  - spanish
+  - hispanic
+  - pentecostal
+  notes: "Spanish-language Pentecostal church"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: comunidad-cristiana-duarte
+  name: Comunidad Cristiana Duarte
+  type: manual
+  category: religious
+  media_type: online
+  organization: Comunidad Cristiana
+  organization_type: religious
+  url: https://www.comunidadcristiana.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: es
+  tags:
+  - church
+  - spanish
+  - hispanic
+  - community
+  notes: "Spanish-language Christian community"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# ASIAN & KOREAN CHURCHES
+# ============================================
+
+- id: korean-presbyterian-duarte
+  name: Korean Presbyterian Church of Duarte
+  type: manual
+  category: religious
+  media_type: online
+  organization: Korean Presbyterian Church
+  organization_type: religious
+  url: https://www.kpcduarte.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: ko
+  tags:
+  - church
+  - korean
+  - presbyterian
+  - asian
+  notes: "Korean-language Presbyterian congregation"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: chinese-christian-duarte
+  name: Chinese Christian Church
+  type: manual
+  category: religious
+  media_type: online
+  organization: Chinese Christian Church
+  organization_type: religious
+  url: https://www.cccduarte.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: zh
+  tags:
+  - church
+  - chinese
+  - asian
+  - community
+  notes: "Mandarin and Cantonese services available"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# OTHER CHRISTIAN DENOMINATIONS
+# ============================================
+
+- id: seventh-day-adventist-duarte
+  name: Duarte Seventh-day Adventist Church
+  type: manual
+  category: religious
+  media_type: online
+  organization: Seventh-day Adventist Church
+  organization_type: religious
+  url: https://www.duartesda.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  contact:
+    office_address: "Duarte, CA 91010"
+  tags:
+  - church
+  - adventist
+  - sabbath
+  - community
+  notes: "Saturday (Sabbath) worship services"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: lds-duarte-ward
+  name: Church of Jesus Christ of Latter-day Saints - Duarte Ward
+  type: manual
+  category: religious
+  media_type: online
+  organization: The Church of Jesus Christ of Latter-day Saints
+  organization_type: religious
+  url: https://www.churchofjesuschrist.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-5291"
+    office_address: "2020 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - church
+  - lds
+  - mormon
+  - community
+  notes: "Part of the Arcadia California Stake"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: jehovahs-witnesses-duarte
+  name: Kingdom Hall of Jehovah's Witnesses - Duarte
+  type: manual
+  category: religious
+  media_type: online
+  organization: Jehovah's Witnesses
+  organization_type: religious
+  url: https://www.jw.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  tags:
+  - church
+  - jehovahs-witnesses
+  - community
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# INTERFAITH & RELIGIOUS RESOURCES
+# ============================================
+
+- id: archdiocese-la
+  name: Archdiocese of Los Angeles
+  type: rss
+  category: religious
+  media_type: online
+  organization: Archdiocese of Los Angeles
+  organization_type: religious
+  url: https://lacatholics.org/
+  feed_url: https://lacatholics.org/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 9
+  frequency: daily
+  language: en
+  contact:
+    phone: "(213) 637-7000"
+    office_address: "3424 Wilshire Blvd, Los Angeles, CA 90010"
+  tags:
+  - catholic
+  - archdiocese
+  - news
+  - events
+  notes: "Duarte Catholic parishes are part of the LA Archdiocese"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: san-gabriel-deanery
+  name: San Gabriel Pastoral Region (Archdiocese)
+  type: manual
+  category: religious
+  media_type: online
+  organization: Archdiocese of Los Angeles
+  organization_type: religious
+  url: https://lacatholics.org/san-gabriel-region/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  tags:
+  - catholic
+  - deanery
+  - regional
+  notes: "ICC Duarte is part of the San Gabriel Pastoral Region"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: sgv-interfaith-council
+  name: San Gabriel Valley Interfaith Council
+  type: manual
+  category: religious
+  media_type: online
+  organization: SGV Interfaith Council
+  organization_type: religious
+  url: https://www.sgvinterfaith.org/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  tags:
+  - interfaith
+  - community
+  - dialogue
+  - service
+  notes: "Interfaith cooperation and community service in the SGV"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# FAITH-BASED SOCIAL SERVICES
+# ============================================
+
+- id: salvation-army-sgv
+  name: Salvation Army - San Gabriel Valley
+  type: manual
+  category: religious
+  media_type: online
+  organization: The Salvation Army
+  organization_type: religious
+  url: https://socalusa.salvationarmy.org/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 445-0541"
+  tags:
+  - social-services
+  - food-pantry
+  - assistance
+  - christian
+  notes: "Social services, food assistance, and emergency aid"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: st-vincent-de-paul-icc
+  name: St. Vincent de Paul Society - ICC
+  type: manual
+  category: religious
+  media_type: online
+  organization: St. Vincent de Paul Society
+  organization_type: religious
+  url: https://www.svdpla.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-2116"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - catholic
+  - charity
+  - food-pantry
+  - assistance
+  - social-services
+  notes: "Catholic charity providing food, clothing, and financial assistance to those in need"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: catholic-charities-la
+  name: Catholic Charities of Los Angeles
+  type: manual
+  category: religious
+  media_type: online
+  organization: Catholic Charities
+  organization_type: religious
+  url: https://catholiccharitiesla.org/
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(213) 251-3400"
+  tags:
+  - catholic
+  - social-services
+  - immigration
+  - housing
+  - assistance
+  notes: "Immigration services, housing assistance, and family support"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# CITY OF HOPE SPIRITUAL CARE
+# ============================================
+
+- id: city-of-hope-chaplaincy
+  name: City of Hope Spiritual Care Services
+  type: manual
+  category: religious
+  media_type: online
+  organization: City of Hope
+  organization_type: corporate
+  url: https://www.cityofhope.org/patients/patient-support/spiritual-care
+  neighborhoods:
+  - duarte
+  coverage_area: national
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(800) 826-4673"
+    office_address: "1500 E Duarte Rd, Duarte, CA 91010"
+  tags:
+  - chaplaincy
+  - spiritual-care
+  - hospital
+  - interfaith
+  - pastoral-care
+  notes: "Interfaith chaplaincy services for patients, families, and staff"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# YOUTH MINISTRY & CAMPUS MINISTRY
+# ============================================
+
+- id: younglife-sgv
+  name: Young Life - San Gabriel Valley
+  type: manual
+  category: religious
+  media_type: online
+  organization: Young Life
+  organization_type: religious
+  url: https://www.younglife.org/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  tags:
+  - youth-ministry
+  - high-school
+  - christian
+  - outreach
+  notes: "Youth ministry reaching middle and high school students"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fca-duarte-high
+  name: Fellowship of Christian Athletes - Duarte High
+  type: manual
+  category: religious
+  media_type: online
+  organization: Fellowship of Christian Athletes
+  organization_type: religious
+  url: https://www.fca.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  tags:
+  - youth-ministry
+  - athletes
+  - high-school
+  - christian
+  notes: "Campus ministry for student athletes at Duarte High School"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# RELIGIOUS MEDIA & RESOURCES
+# ============================================
+
+- id: kwave-christian-radio
+  name: KWAVE 107.9 FM Christian Radio
+  type: manual
+  category: religious
+  media_type: broadcast
+  organization: KWAVE
+  organization_type: media
+  url: https://www.kwave.com/
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 7
+  frequency: daily
+  language: en
+  tags:
+  - radio
+  - christian
+  - music
+  - broadcast
+  notes: "Christian radio station serving the LA area"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: relevant-radio-la
+  name: Relevant Radio Los Angeles
+  type: manual
+  category: religious
+  media_type: broadcast
+  organization: Relevant Radio
+  organization_type: media
+  url: https://relevantradio.com/
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - radio
+  - catholic
+  - talk
+  - broadcast
+  notes: "Catholic talk radio"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neighborhood Reporter - Local News Aggregator</title>
+  <meta name="description" content="Consolidate local news from social, civic, corporate, religious, educational, and municipal sources for your neighborhood.">
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <h1 class="logo">📰 Neighborhood Reporter</h1>
+      <p class="tagline">Your Local News, One Place</p>
+    </div>
+  </header>
+
+  <main class="main">
+    <section class="hero">
+      <div class="container">
+        <h2>Find Local News Sources for Your Neighborhood</h2>
+        <p>We aggregate news from government, schools, businesses, community organizations, media outlets, and more.</p>
+        
+        <div class="neighborhood-selector">
+          <label for="neighborhood-select">Select Your Neighborhood:</label>
+          <select id="neighborhood-select">
+            <option value="">Loading neighborhoods...</option>
+          </select>
+          <button id="load-sources" class="btn btn-primary">View Sources</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="sources-section" id="sources-section" style="display: none;">
+      <div class="container">
+        <div class="sources-header">
+          <h2 id="neighborhood-name">Neighborhood Sources</h2>
+          <p id="sources-summary"></p>
+        </div>
+
+        <div class="sources-grid" id="sources-grid">
+          <!-- Sources will be loaded here -->
+        </div>
+      </div>
+    </section>
+
+    <section class="categories-info">
+      <div class="container">
+        <h2>What We Track</h2>
+        <div class="categories-grid">
+          <div class="category-card">
+            <span class="category-icon">🏛️</span>
+            <h3>Municipal</h3>
+            <p>City council, police, fire, transit, parks, and public health updates.</p>
+          </div>
+          <div class="category-card">
+            <span class="category-icon">🏘️</span>
+            <h3>Civic</h3>
+            <p>Neighborhood councils, community groups, and civic organizations.</p>
+          </div>
+          <div class="category-card">
+            <span class="category-icon">📰</span>
+            <h3>Media</h3>
+            <p>Local newspapers, TV stations, radio, podcasts, and online news.</p>
+          </div>
+          <div class="category-card">
+            <span class="category-icon">🎓</span>
+            <h3>Educational</h3>
+            <p>Schools, colleges, libraries, and educational programs.</p>
+          </div>
+          <div class="category-card">
+            <span class="category-icon">⛪</span>
+            <h3>Religious</h3>
+            <p>Churches, temples, mosques, and faith-based community news.</p>
+          </div>
+          <div class="category-card">
+            <span class="category-icon">🏢</span>
+            <h3>Corporate</h3>
+            <p>Local businesses, utilities, and major employers.</p>
+          </div>
+          <div class="category-card">
+            <span class="category-icon">💬</span>
+            <h3>Social</h3>
+            <p>Community social media, Nextdoor, and neighborhood groups.</p>
+          </div>
+          <div class="category-card">
+            <span class="category-icon">👤</span>
+            <h3>Leaders</h3>
+            <p>Elected officials, organization heads, and community leaders.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="api-section">
+      <div class="container">
+        <h2>API Access</h2>
+        <p>Access our data programmatically via our JSON API.</p>
+        <div class="api-endpoints">
+          <div class="endpoint">
+            <code>GET /api/v1/index.json</code>
+            <span>API overview and available endpoints</span>
+          </div>
+          <div class="endpoint">
+            <code>GET /api/v1/neighborhoods/</code>
+            <span>List all neighborhoods</span>
+          </div>
+          <div class="endpoint">
+            <code>GET /api/v1/neighborhoods/{id}.json</code>
+            <span>Sources for a specific neighborhood</span>
+          </div>
+          <div class="endpoint">
+            <code>GET /api/v1/sources/</code>
+            <span>All sources by category</span>
+          </div>
+          <div class="endpoint">
+            <code>GET /api/v1/leaders/</code>
+            <span>Community leaders directory</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>Neighborhood Reporter - Open Source Local News Aggregation</p>
+      <p><a href="https://github.com/TedTschopp/Neighborhood-Reporter">View on GitHub</a></p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

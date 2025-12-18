@@ -1,0 +1,242 @@
+# Municipal/Government Sources for Duarte
+
+sources:
+# City of Duarte
+- id: city-of-duarte
+  name: City of Duarte
+  type: rss
+  category: municipal
+  media_type: online
+  organization: City of Duarte
+  organization_type: government
+  url: https://www.accessduarte.com/
+  feed_url: https://www.accessduarte.com/rss
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 10
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-7931"
+    office_address: "1600 Huntington Drive, Duarte, CA 91010"
+    website: https://www.accessduarte.com/contact
+  tags:
+  - government
+  - city
+  - official
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-city-council
+  name: Duarte City Council
+  type: manual
+  category: municipal
+  media_type: online
+  organization: City of Duarte
+  organization_type: government
+  url: https://www.accessduarte.com/government/city-council
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 10
+  frequency: monthly
+  language: en
+  tags:
+  - government
+  - city-council
+  - meetings
+  - agendas
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-city-news
+  name: Duarte City News & Announcements
+  type: rss
+  category: municipal
+  media_type: online
+  organization: City of Duarte
+  organization_type: government
+  url: https://www.accessduarte.com/news
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 10
+  frequency: weekly
+  language: en
+  tags:
+  - government
+  - news
+  - announcements
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# LA County Sheriff - Temple Station
+- id: lasd-temple-station
+  name: LA County Sheriff - Temple Station
+  type: rss
+  category: municipal
+  media_type: online
+  organization: Los Angeles County Sheriff's Department
+  organization_type: government
+  url: https://lasd.org/temple/
+  neighborhoods:
+  - duarte
+  coverage_area: district
+  reliability_score: 9
+  frequency: daily
+  language: en
+  contact:
+    phone: "(626) 285-7171"
+    office_address: "8838 E. Las Tunas Dr., Temple City, CA 91780"
+  tags:
+  - public-safety
+  - crime
+  - sheriff
+  notes: "Serves Duarte and surrounding unincorporated areas"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# LA County Fire
+- id: la-county-fire
+  name: LA County Fire Department
+  type: rss
+  category: municipal
+  media_type: online
+  organization: Los Angeles County Fire Department
+  organization_type: government
+  url: https://fire.lacounty.gov/
+  feed_url: https://fire.lacounty.gov/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 10
+  frequency: daily
+  language: en
+  contact:
+    phone: "(323) 881-2411"
+  tags:
+  - public-safety
+  - fire
+  - emergency
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# LA County Board of Supervisors - District 5
+- id: la-county-district-5
+  name: LA County Supervisor District 5
+  type: rss
+  category: municipal
+  media_type: online
+  organization: Los Angeles County
+  organization_type: government
+  url: https://kathrynbarger.lacounty.gov/
+  feed_url: https://kathrynbarger.lacounty.gov/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: district
+  reliability_score: 10
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(213) 974-5555"
+    website: https://kathrynbarger.lacounty.gov/contact/
+  tags:
+  - government
+  - county
+  - supervisor
+  notes: "Duarte is in LA County Supervisor District 5"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Metro - Foothill Gold Line
+- id: metro-foothill-gold-line
+  name: Metro Foothill Gold Line Extension
+  type: rss
+  category: municipal
+  media_type: online
+  organization: Foothill Gold Line Construction Authority
+  organization_type: government
+  url: https://foothillgoldline.org/
+  feed_url: https://foothillgoldline.org/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - transit
+  - rail
+  - gold-line
+  - infrastructure
+  notes: "Duarte/City of Hope Gold Line Station serves Duarte"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: metro-la
+  name: LA Metro
+  type: rss
+  category: municipal
+  media_type: online
+  organization: Los Angeles County Metropolitan Transportation Authority
+  organization_type: government
+  url: https://www.metro.net/
+  feed_url: https://www.metro.net/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 9
+  frequency: daily
+  language: en
+  contact:
+    phone: "323-GO-METRO"
+    website: https://www.metro.net/about/contact/
+  tags:
+  - transit
+  - transportation
+  - bus
+  - rail
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# LA County Public Health
+- id: la-county-public-health
+  name: LA County Public Health
+  type: rss
+  category: municipal
+  media_type: online
+  organization: Los Angeles County
+  organization_type: government
+  url: http://publichealth.lacounty.gov/
+  feed_url: http://publichealth.lacounty.gov/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 10
+  frequency: weekly
+  language: en
+  tags:
+  - health
+  - public-health
+  - safety
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"

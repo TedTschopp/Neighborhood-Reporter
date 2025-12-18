@@ -1,0 +1,124 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "neighborhood-schema",
+  "title": "Neighborhood",
+  "description": "Schema for neighborhood definitions",
+  "type": "object",
+  "required": ["id", "name", "slug", "active"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Unique identifier (lowercase, hyphens only)"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Display name of the neighborhood"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "URL-safe slug"
+    },
+    "aliases": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Alternative names for the neighborhood"
+    },
+    "region": {
+      "type": "string",
+      "description": "Broader region containing this neighborhood"
+    },
+    "city": {
+      "type": "string",
+      "description": "City name"
+    },
+    "state": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 2,
+      "description": "Two-letter state code"
+    },
+    "country": {
+      "type": "string",
+      "default": "US",
+      "description": "Country code"
+    },
+    "zip_codes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "ZIP codes within this neighborhood"
+    },
+    "boundaries": {
+      "type": "object",
+      "properties": {
+        "north": { "type": "string" },
+        "south": { "type": "string" },
+        "east": { "type": "string" },
+        "west": { "type": "string" }
+      },
+      "description": "Neighboring areas at each boundary"
+    },
+    "coordinates": {
+      "type": "object",
+      "required": ["latitude", "longitude"],
+      "properties": {
+        "latitude": { "type": "number", "minimum": -90, "maximum": 90 },
+        "longitude": { "type": "number", "minimum": -180, "maximum": 180 }
+      },
+      "description": "Center point coordinates"
+    },
+    "population": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Estimated population"
+    },
+    "council_district": {
+      "type": "string",
+      "description": "City council district number/name"
+    },
+    "school_district": {
+      "type": "string",
+      "description": "Primary school district"
+    },
+    "police_division": {
+      "type": "string",
+      "description": "Police division/precinct"
+    },
+    "fire_district": {
+      "type": "string",
+      "description": "Fire district"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Descriptive tags"
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description of the neighborhood"
+    },
+    "image_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Representative image URL"
+    },
+    "active": {
+      "type": "boolean",
+      "default": true,
+      "description": "Whether this neighborhood is actively tracked"
+    },
+    "created_at": {
+      "type": "string",
+      "format": "date",
+      "description": "Date this record was created"
+    },
+    "updated_at": {
+      "type": "string",
+      "format": "date",
+      "description": "Date this record was last updated"
+    }
+  },
+  "additionalProperties": false
+}

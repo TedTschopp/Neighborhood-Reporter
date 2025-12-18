@@ -1,0 +1,135 @@
+# Civic Organization Sources for Duarte
+
+sources:
+# Duarte Chamber of Commerce
+- id: duarte-chamber
+  name: Duarte Chamber of Commerce
+  type: rss
+  category: civic
+  media_type: online
+  organization: Duarte Chamber of Commerce
+  organization_type: business
+  url: https://www.duartechamber.com/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-3333"
+    email: info@duartechamber.com
+    office_address: "1105 Oak Ave, Duarte, CA 91010"
+    website: https://www.duartechamber.com/contact/
+  tags:
+  - business
+  - chamber
+  - economic-development
+  - events
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Duarte Historical Society
+- id: duarte-historical-society
+  name: Duarte Historical Society & Museum
+  type: manual
+  category: civic
+  media_type: online
+  organization: Duarte Historical Society
+  organization_type: nonprofit
+  url: https://www.ranchoduarte.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 357-9419"
+    office_address: "777 Encanto Parkway, Duarte, CA 91010"
+  tags:
+  - history
+  - museum
+  - preservation
+  - community
+  notes: "Located at Encanto Park"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Duarte Kiwanis
+- id: duarte-kiwanis
+  name: Duarte Kiwanis Club
+  type: manual
+  category: civic
+  media_type: online
+  organization: Kiwanis International
+  organization_type: nonprofit
+  url: https://www.duartekiwanis.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  tags:
+  - service-club
+  - community
+  - volunteer
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Duarte Rotary
+- id: duarte-rotary
+  name: Duarte Rotary Club
+  type: manual
+  category: civic
+  media_type: online
+  organization: Rotary International
+  organization_type: nonprofit
+  url: https://www.duarterotary.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  tags:
+  - service-club
+  - community
+  - volunteer
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Route 66 Parade
+- id: route-66-parade
+  name: Duarte Route 66 Parade
+  type: social
+  category: civic
+  media_type: social-media
+  organization: Duarte Route 66 Parade Committee
+  organization_type: community
+  url: https://www.duarteroute66parade.com/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  tags:
+  - events
+  - parade
+  - route-66
+  - community
+  notes: "Annual parade celebrating Route 66 heritage"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"

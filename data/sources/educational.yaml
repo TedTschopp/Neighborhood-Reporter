@@ -1,0 +1,1076 @@
+# Educational Sources for Duarte
+# Comprehensive listing of schools, educational institutions, and resources
+
+sources:
+# ============================================
+# DUARTE UNIFIED SCHOOL DISTRICT
+# ============================================
+
+- id: duarte-unified
+  name: Duarte Unified School District
+  type: rss
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+    website: https://www.duarteusd.org/contact
+  tags:
+  - education
+  - schools
+  - district
+  - k-12
+  notes: "Serves approximately 3,800 students across 7 schools"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-usd-board
+  name: DUSD Board of Education
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/board
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - school-board
+  - governance
+  - meetings
+  notes: "Board meetings typically held monthly - check website for schedule"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-usd-facebook
+  name: Duarte USD Facebook
+  type: social
+  category: educational
+  media_type: social
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.facebook.com/DuarteUSD/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - education
+  - district
+  - social-media
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-usd-twitter
+  name: Duarte USD Twitter/X
+  type: social
+  category: educational
+  media_type: social
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://twitter.com/DuarteUSD
+  social_platform: twitter
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - education
+  - district
+  - social-media
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# HIGH SCHOOL
+# ============================================
+
+- id: duarte-high-school
+  name: Duarte High School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/duartehigh
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 599-5700"
+    office_address: "1565 E Central Ave, Duarte, CA 91010"
+  tags:
+  - education
+  - high-school
+  - grades-9-12
+  - falcons
+  notes: "Home of the Falcons - grades 9-12"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-high-athletics
+  name: Duarte High School Athletics
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/athletics
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  tags:
+  - education
+  - high-school
+  - athletics
+  - sports
+  notes: "CIF Southern Section athletics"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-high-ptsa
+  name: Duarte High School PTSA
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte High School PTSA
+  organization_type: nonprofit
+  url: https://www.duarteusd.org/duartehigh
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  tags:
+  - education
+  - high-school
+  - pta
+  - parent-involvement
+  notes: "Parent Teacher Student Association"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# INTERMEDIATE / MIDDLE SCHOOL
+# ============================================
+
+- id: northview-intermediate
+  name: Northview Intermediate School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/northview
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 599-5600"
+    office_address: "1351 Highland Ave, Duarte, CA 91010"
+  tags:
+  - education
+  - middle-school
+  - intermediate
+  - grades-6-8
+  notes: "Grades 6-8 intermediate school"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: northview-pta
+  name: Northview Intermediate PTA
+  type: manual
+  category: educational
+  media_type: online
+  organization: Northview Intermediate PTA
+  organization_type: nonprofit
+  url: https://www.duarteusd.org/northview
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  tags:
+  - education
+  - middle-school
+  - pta
+  - parent-involvement
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# ELEMENTARY SCHOOLS
+# ============================================
+
+- id: andres-duarte-elementary
+  name: Andres Duarte Elementary School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/andresduarte
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 599-5300"
+    office_address: "1433 Crestfield Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - elementary
+  - grades-k-5
+  notes: "Named after Andres Avelino Duarte, the city's namesake"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: beardslee-elementary
+  name: Beardslee Elementary School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/beardslee
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 599-5400"
+    office_address: "1212 Kellwill Way, Duarte, CA 91010"
+  tags:
+  - education
+  - elementary
+  - grades-k-5
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: maxwell-elementary
+  name: Maxwell Elementary School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/maxwell
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 599-5500"
+    office_address: "851 Bradbourne Ave, Duarte, CA 91010"
+  tags:
+  - education
+  - elementary
+  - grades-k-5
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: royal-oaks-elementary
+  name: Royal Oaks STEAM Academy
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/royaloaks
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 599-5200"
+    office_address: "2499 Royal Oaks Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - elementary
+  - grades-k-5
+  - steam
+  - science
+  - technology
+  notes: "STEAM (Science, Technology, Engineering, Arts, Math) focus"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: valley-view-elementary
+  name: Valley View Elementary School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/valleyview
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 599-5100"
+    office_address: "225 Melcanyon Rd, Duarte, CA 91010"
+  tags:
+  - education
+  - elementary
+  - grades-k-5
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# ALTERNATIVE & CONTINUING EDUCATION
+# ============================================
+
+- id: mt-olive-high-school
+  name: Mt. Olive High School (Continuation)
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/mtolive
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 599-5750"
+    office_address: "1600 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - continuation
+  - alternative
+  - high-school
+  notes: "Continuation high school for credit recovery and alternative education"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-adult-school
+  name: Duarte Adult School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/adulted
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 599-5050"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - adult-education
+  - ged
+  - esl
+  - career-training
+  notes: "Adult education, ESL, GED, career and technical education"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# PRESCHOOL & EARLY CHILDHOOD
+# ============================================
+
+- id: duarte-preschool
+  name: Duarte Preschool Academy
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/preschool
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 599-5000"
+  tags:
+  - education
+  - preschool
+  - early-childhood
+  - pre-k
+  notes: "State-funded preschool programs for ages 3-4"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: head-start-duarte
+  name: Head Start Duarte
+  type: manual
+  category: educational
+  media_type: online
+  organization: Child Care Resource Center
+  organization_type: nonprofit
+  url: https://www.ccrcca.org/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  tags:
+  - education
+  - preschool
+  - head-start
+  - early-childhood
+  - low-income
+  notes: "Federal Head Start program for low-income families"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# SPECIAL EDUCATION & SUPPORT SERVICES
+# ============================================
+
+- id: duarte-usd-special-ed
+  name: DUSD Special Education (SELPA)
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/specialeducation
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 599-5000"
+    office_address: "1620 Huntington Dr, Duarte, CA 91010"
+  tags:
+  - education
+  - special-education
+  - selpa
+  - iep
+  - disabilities
+  notes: "Special Education Local Plan Area services and resources"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-usd-counseling
+  name: DUSD Counseling & Mental Health
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/counseling
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: monthly
+  language: en
+  tags:
+  - education
+  - counseling
+  - mental-health
+  - student-support
+  notes: "School counseling and mental health resources"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# PARENT & COMMUNITY ENGAGEMENT
+# ============================================
+
+- id: duarte-delac
+  name: DUSD District English Learner Advisory Committee (DELAC)
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/delac
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  tags:
+  - education
+  - english-learners
+  - advisory
+  - parent-involvement
+  notes: "Advisory committee for English Learner programs"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-lcap
+  name: DUSD Local Control & Accountability Plan (LCAP)
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.duarteusd.org/lcap
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: yearly
+  language: en
+  tags:
+  - education
+  - accountability
+  - budget
+  - planning
+  - lcff
+  notes: "District spending plan and goals required by California"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-pta-council
+  name: Duarte PTA Council
+  type: manual
+  category: educational
+  media_type: online
+  organization: Duarte PTA Council
+  organization_type: nonprofit
+  url: https://capta.org/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  tags:
+  - education
+  - pta
+  - parent-involvement
+  - advocacy
+  notes: "Citywide PTA council coordinating school PTAs"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# HIGHER EDUCATION & COMMUNITY COLLEGE
+# ============================================
+
+- id: citrus-college
+  name: Citrus College
+  type: rss
+  category: educational
+  media_type: online
+  organization: Citrus Community College District
+  organization_type: educational
+  url: https://www.citruscollege.edu/
+  feed_url: https://www.citruscollege.edu/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 963-0323"
+    office_address: "1000 W Foothill Blvd, Glendora, CA 91741"
+  tags:
+  - education
+  - community-college
+  - higher-education
+  - transfer
+  - career-technical
+  notes: "Community college serving Duarte - offers transfer and career programs"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: citrus-college-facebook
+  name: Citrus College Facebook
+  type: social
+  category: educational
+  media_type: social
+  organization: Citrus Community College District
+  organization_type: educational
+  url: https://www.facebook.com/citruscollege
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - education
+  - community-college
+  - social-media
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: azusa-pacific-university
+  name: Azusa Pacific University
+  type: manual
+  category: educational
+  media_type: online
+  organization: Azusa Pacific University
+  organization_type: educational
+  url: https://www.apu.edu/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 969-3434"
+    office_address: "901 E Alosta Ave, Azusa, CA 91702"
+  tags:
+  - education
+  - university
+  - private
+  - christian
+  - higher-education
+  notes: "Private Christian university nearby in Azusa"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# LIBRARY & LITERACY RESOURCES
+# ============================================
+
+- id: duarte-library
+  name: Duarte Library (LA County Library)
+  type: manual
+  category: educational
+  media_type: online
+  organization: LA County Library
+  organization_type: government
+  url: https://lacountylibrary.org/duarte-library/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 358-1865"
+    office_address: "1301 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - library
+  - literacy
+  - education
+  - community
+  - resources
+  notes: "Full-service public library with programs for all ages"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-library-facebook
+  name: Duarte Library Facebook
+  type: social
+  category: educational
+  media_type: social
+  organization: LA County Library
+  organization_type: government
+  url: https://www.facebook.com/lacountylibrary.duarte/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  tags:
+  - library
+  - events
+  - programs
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: la-county-library
+  name: LA County Library System
+  type: rss
+  category: educational
+  media_type: online
+  organization: LA County Library
+  organization_type: government
+  url: https://lacountylibrary.org/
+  feed_url: https://lacountylibrary.org/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - library
+  - events
+  - education
+  - resources
+  notes: "County-wide library system - Duarte residents have full access"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# TUTORING & ENRICHMENT
+# ============================================
+
+- id: kumon-duarte
+  name: Kumon Math & Reading Center of Duarte
+  type: manual
+  category: educational
+  media_type: online
+  organization: Kumon
+  organization_type: business
+  url: https://www.kumon.com/duarte-ca
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  tags:
+  - education
+  - tutoring
+  - math
+  - reading
+  - enrichment
+  notes: "After-school tutoring and enrichment"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: duarte-teen-center
+  name: Duarte Teen Center
+  type: manual
+  category: educational
+  media_type: online
+  organization: City of Duarte
+  organization_type: government
+  url: https://www.accessduarte.com/government/parks-recreation/teen-center
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-7931"
+    office_address: "1400 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - education
+  - teen
+  - recreation
+  - after-school
+  - tutoring
+  notes: "After-school programs, homework help, and activities for teens"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# CAREER & WORKFORCE DEVELOPMENT
+# ============================================
+
+- id: america-job-center-sgv
+  name: America's Job Center - San Gabriel Valley
+  type: manual
+  category: educational
+  media_type: online
+  organization: LA County Workforce Development
+  organization_type: government
+  url: https://www.lacounty.gov/business/doing-business-with-la-county/workforce-development/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  tags:
+  - education
+  - workforce
+  - job-training
+  - career
+  - employment
+  notes: "Free job search assistance and training programs"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: city-of-hope-education
+  name: City of Hope Educational Programs
+  type: manual
+  category: educational
+  media_type: online
+  organization: City of Hope
+  organization_type: corporate
+  url: https://www.cityofhope.org/education
+  neighborhoods:
+  - duarte
+  coverage_area: national
+  reliability_score: 9
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(800) 826-4673"
+    office_address: "1500 E Duarte Rd, Duarte, CA 91010"
+  tags:
+  - education
+  - medical
+  - research
+  - internships
+  - fellowships
+  notes: "Graduate programs, residencies, fellowships, and student internships"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# PRIVATE & CHARTER SCHOOLS (AREA)
+# ============================================
+
+- id: immaculate-conception-school
+  name: Immaculate Conception School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Archdiocese of Los Angeles
+  organization_type: religious
+  url: https://iccduarte.org/school
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 357-3720"
+    office_address: "819 Buena Vista St, Duarte, CA 91010"
+  tags:
+  - education
+  - private
+  - catholic
+  - k-8
+  - parochial
+  notes: "Catholic K-8 school affiliated with Immaculate Conception Church"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# EDUCATION OVERSIGHT & RESOURCES
+# ============================================
+
+- id: ca-dept-education
+  name: California Department of Education
+  type: rss
+  category: educational
+  media_type: online
+  organization: State of California
+  organization_type: government
+  url: https://www.cde.ca.gov/
+  feed_url: https://www.cde.ca.gov/re/di/rss/
+  neighborhoods:
+  - duarte
+  coverage_area: state
+  reliability_score: 10
+  frequency: weekly
+  language: en
+  tags:
+  - education
+  - state
+  - policy
+  - standards
+  - testing
+  notes: "State education policy, standards, and accountability"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: la-county-office-education
+  name: LA County Office of Education
+  type: manual
+  category: educational
+  media_type: online
+  organization: Los Angeles County Office of Education
+  organization_type: government
+  url: https://www.lacoe.edu/
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(562) 922-6111"
+    office_address: "9300 Imperial Hwy, Downey, CA 90242"
+  tags:
+  - education
+  - county
+  - support
+  - resources
+  notes: "County educational support services and oversight"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: great-schools-duarte
+  name: GreatSchools - Duarte
+  type: manual
+  category: educational
+  media_type: online
+  organization: GreatSchools
+  organization_type: nonprofit
+  url: https://www.greatschools.org/california/duarte/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: yearly
+  language: en
+  tags:
+  - education
+  - ratings
+  - reviews
+  - school-choice
+  notes: "School ratings and parent reviews"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: ed-data-duarte
+  name: Ed-Data Duarte USD
+  type: manual
+  category: educational
+  media_type: online
+  organization: Ed-Data Partnership
+  organization_type: nonprofit
+  url: https://www.ed-data.org/district/Los-Angeles/Duarte-Unified
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: yearly
+  language: en
+  tags:
+  - education
+  - data
+  - statistics
+  - demographics
+  - accountability
+  notes: "Comprehensive education data and statistics for DUSD"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"

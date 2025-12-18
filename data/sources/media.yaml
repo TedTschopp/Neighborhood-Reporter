@@ -1,0 +1,230 @@
+# Media Sources Covering Duarte
+
+sources:
+# Patch - Hyperlocal news
+- id: patch-duarte
+  name: Patch - Duarte
+  type: rss
+  category: media
+  media_type: online
+  organization: Patch Media
+  organization_type: media
+  url: https://patch.com/california/duarte
+  feed_url: https://patch.com/california/duarte/rss.xml
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - news
+  - local
+  - hyperlocal
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# San Gabriel Valley Tribune
+- id: sgv-tribune
+  name: San Gabriel Valley Tribune
+  type: rss
+  category: media
+  media_type: print
+  organization: Southern California News Group
+  organization_type: media
+  url: https://www.sgvtribune.com/
+  feed_url: https://www.sgvtribune.com/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: daily
+  language: en
+  contact:
+    phone: "(626) 962-8811"
+    office_address: "605 E Huntington Dr #100, Monrovia, CA 91016"
+  tags:
+  - news
+  - regional
+  - print
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Pasadena Star-News
+- id: pasadena-star-news
+  name: Pasadena Star-News
+  type: rss
+  category: media
+  media_type: print
+  organization: Southern California News Group
+  organization_type: media
+  url: https://www.pasadenastarnews.com/
+  feed_url: https://www.pasadenastarnews.com/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - news
+  - regional
+  - print
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Monrovia Weekly
+- id: monrovia-weekly
+  name: Monrovia Weekly
+  type: manual
+  category: media
+  media_type: print
+  organization: Monrovia Weekly
+  organization_type: media
+  url: https://www.monroviaweekly.com/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  tags:
+  - news
+  - local
+  - print
+  notes: "Covers Monrovia and neighboring communities including Duarte"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Local TV - KTLA
+- id: ktla-news
+  name: KTLA 5 News - Local
+  type: rss
+  category: media
+  media_type: broadcast
+  organization: KTLA
+  organization_type: media
+  url: https://ktla.com/news/local-news/
+  feed_url: https://ktla.com/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - news
+  - television
+  - broadcast
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Local TV - ABC7
+- id: abc7-local
+  name: ABC7 Los Angeles
+  type: rss
+  category: media
+  media_type: broadcast
+  organization: ABC7 Eyewitness News
+  organization_type: media
+  url: https://abc7.com/los-angeles/
+  feed_url: https://abc7.com/feed/
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - news
+  - television
+  - broadcast
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# KPCC - Local NPR
+- id: kpcc-laist
+  name: LAist (KPCC)
+  type: rss
+  category: media
+  media_type: broadcast
+  organization: Southern California Public Radio
+  organization_type: media
+  url: https://laist.com/
+  feed_url: https://laist.com/rss/index.xml
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - news
+  - radio
+  - public-radio
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# LA Times - San Gabriel Valley
+- id: la-times-sgv
+  name: LA Times - San Gabriel Valley
+  type: rss
+  category: media
+  media_type: print
+  organization: Los Angeles Times
+  organization_type: media
+  url: https://www.latimes.com/california/
+  feed_url: https://www.latimes.com/california/rss2.0.xml
+  neighborhoods:
+  - duarte
+  coverage_area: county
+  reliability_score: 10
+  frequency: daily
+  language: en
+  tags:
+  - news
+  - regional
+  - print
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Duarte View (City Newsletter)
+- id: duarte-view
+  name: Duarte View (City Newsletter)
+  type: manual
+  category: media
+  media_type: print
+  organization: City of Duarte
+  organization_type: government
+  url: https://www.accessduarte.com/government/city-publications
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 10
+  frequency: monthly
+  language: en
+  tags:
+  - newsletter
+  - city
+  - official
+  notes: "Official city newsletter distributed to residents"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"

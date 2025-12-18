@@ -1,0 +1,49 @@
+name: Fetch News Feeds
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC (10 PM PST / 11 PM PDT)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      generate_newsletter:
+        description: 'Generate newsletter after fetching'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch news feeds
+        run: npm run fetch
+        continue-on-error: true
+
+      - name: Generate newsletter
+        if: ${{ github.event.inputs.generate_newsletter == 'true' || github.event_name == 'schedule' }}
+        run: npm run build:newsletter
+        continue-on-error: true
+
+      - name: Commit aggregated data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/aggregated/ output/ || true
+          git diff --staged --quiet || git commit -m "chore: update aggregated feeds [skip ci]"
+          git push || true

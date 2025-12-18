@@ -1,0 +1,5325 @@
+{
+  "generated": "2025-12-18T18:25:55.075Z",
+  "summary": {
+    "totalOrganizations": 117,
+    "byType": {
+      "business": 7,
+      "nonprofit": 11,
+      "community": 5,
+      "corporate": 33,
+      "government": 18,
+      "educational": 12,
+      "religious": 31
+    }
+  },
+  "organizations": [
+    {
+      "name": "Duarte Chamber of Commerce",
+      "type": "business",
+      "existingSocial": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/DuarteChamber/"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duartechamberofcommerce",
+          "username": "duartechamberofcommerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duarte_chamber_of_commerce",
+          "username": "duarte_chamber_of_commerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duarte-chamber-of-commerce",
+          "username": "duarte-chamber-of-commerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Duarte%20Chamber%20of%20Commerce",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duartechamberofcommerce",
+          "username": "duartechamberofcommerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duarte_chamber_of_commerce",
+          "username": "duarte_chamber_of_commerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duarte-chamber-of-commerce",
+          "username": "duarte-chamber-of-commerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duartechamberofcommerce",
+          "username": "duartechamberofcommerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duarte_chamber_of_commerce",
+          "username": "duarte_chamber_of_commerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duarte-chamber-of-commerce",
+          "username": "duarte-chamber-of-commerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Duarte%20Chamber%20of%20Commerce",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duartechamberofcommerce",
+          "username": "duartechamberofcommerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duarte_chamber_of_commerce",
+          "username": "duarte_chamber_of_commerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duarte-chamber-of-commerce",
+          "username": "duarte-chamber-of-commerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Duarte%20Chamber%20of%20Commerce",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@duartechamberofcommerce",
+          "username": "duartechamberofcommerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@duarte_chamber_of_commerce",
+          "username": "duarte_chamber_of_commerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@duarte-chamber-of-commerce",
+          "username": "duarte-chamber-of-commerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/duartechamberofcommerce.bsky.social",
+          "username": "duartechamberofcommerce",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/duarte_chamber_of_commerce.bsky.social",
+          "username": "duarte_chamber_of_commerce",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Kumon",
+      "type": "business",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/kumon",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Kumon",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/kumon",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Kumon",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/kumon",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@kumon",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Kumon",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/kumon",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Kumon",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@kumon",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/kumon.bsky.social",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/search?q=Kumon",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@kumon",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@kumon",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/search?q=Kumon",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/kumon",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/search?q=Kumon",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "telegram",
+          "platformName": "Telegram",
+          "url": "https://t.me/kumon",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/kumon",
+          "username": "kumon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/search/users/?q=Kumon",
+          "type": "search",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Nextdoor",
+      "type": "business",
+      "existingSocial": [
+        {
+          "platform": "nextdoor",
+          "url": "https://nextdoor.com/city/duarte--ca/"
+        },
+        {
+          "platform": "nextdoor",
+          "url": "https://nextdoor.com/"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/nextdoor",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Nextdoor",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/nextdoor",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Nextdoor",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/nextdoor",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@nextdoor",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Nextdoor",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/nextdoor",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Nextdoor",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@nextdoor",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/nextdoor.bsky.social",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/search?q=Nextdoor",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@nextdoor",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@nextdoor",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/search?q=Nextdoor",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/nextdoor",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/search?q=Nextdoor",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "telegram",
+          "platformName": "Telegram",
+          "url": "https://t.me/nextdoor",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/nextdoor",
+          "username": "nextdoor",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/search/users/?q=Nextdoor",
+          "type": "search",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Citizen",
+      "type": "business",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/citizen",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Citizen",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/citizen",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Citizen",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/citizen",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@citizen",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Citizen",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/citizen",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Citizen",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@citizen",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/citizen.bsky.social",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/search?q=Citizen",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@citizen",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@citizen",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/search?q=Citizen",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/citizen",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/search?q=Citizen",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "telegram",
+          "platformName": "Telegram",
+          "url": "https://t.me/citizen",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/citizen",
+          "username": "citizen",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/search/users/?q=Citizen",
+          "type": "search",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Ring (Amazon)",
+      "type": "business",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/ringamazon",
+          "username": "ringamazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/ring_amazon",
+          "username": "ring_amazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/ring-amazon",
+          "username": "ring-amazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Ring%20(Amazon)",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/ringamazon",
+          "username": "ringamazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/ring_amazon",
+          "username": "ring_amazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/ring-amazon",
+          "username": "ring-amazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Ring%20(Amazon)",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/ringamazon",
+          "username": "ringamazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/ring_amazon",
+          "username": "ring_amazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/ring-amazon",
+          "username": "ring-amazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@ringamazon",
+          "username": "ringamazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@ring_amazon",
+          "username": "ring_amazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@ring-amazon",
+          "username": "ring-amazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Ring%20(Amazon)",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/ringamazon",
+          "username": "ringamazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/ring_amazon",
+          "username": "ring_amazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/ring-amazon",
+          "username": "ring-amazon",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Ring%20(Amazon)",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@ringamazon",
+          "username": "ringamazon",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Duarte Historical Society",
+      "type": "nonprofit",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duartehistoricalsociety",
+          "username": "duartehistoricalsociety",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duarte_historical_society",
+          "username": "duarte_historical_society",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duarte-historical-society",
+          "username": "duarte-historical-society",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Duarte%20Historical%20Society",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duartehistoricalsociety",
+          "username": "duartehistoricalsociety",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duarte_historical_society",
+          "username": "duarte_historical_society",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duarte-historical-society",
+          "username": "duarte-historical-society",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Duarte%20Historical%20Society",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duartehistoricalsociety",
+          "username": "duartehistoricalsociety",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duarte_historical_society",
+          "username": "duarte_historical_society",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duarte-historical-society",
+          "username": "duarte-historical-society",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duartehistoricalsociety",
+          "username": "duartehistoricalsociety",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duarte_historical_society",
+          "username": "duarte_historical_society",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duarte-historical-society",
+          "username": "duarte-historical-society",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Duarte%20Historical%20Society",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duartehistoricalsociety",
+          "username": "duartehistoricalsociety",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duarte_historical_society",
+          "username": "duarte_historical_society",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duarte-historical-society",
+          "username": "duarte-historical-society",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Duarte%20Historical%20Society",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@duartehistoricalsociety",
+          "username": "duartehistoricalsociety",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Kiwanis International",
+      "type": "nonprofit",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/kiwanisinternational",
+          "username": "kiwanisinternational",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/kiwanis_international",
+          "username": "kiwanis_international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/kiwanis-international",
+          "username": "kiwanis-international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Kiwanis%20International",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/kiwanisinternational",
+          "username": "kiwanisinternational",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/kiwanis_international",
+          "username": "kiwanis_international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/kiwanis-international",
+          "username": "kiwanis-international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Kiwanis%20International",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/kiwanisinternational",
+          "username": "kiwanisinternational",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/kiwanis_international",
+          "username": "kiwanis_international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/kiwanis-international",
+          "username": "kiwanis-international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@kiwanisinternational",
+          "username": "kiwanisinternational",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@kiwanis_international",
+          "username": "kiwanis_international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@kiwanis-international",
+          "username": "kiwanis-international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Kiwanis%20International",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/kiwanisinternational",
+          "username": "kiwanisinternational",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/kiwanis_international",
+          "username": "kiwanis_international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/kiwanis-international",
+          "username": "kiwanis-international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Kiwanis%20International",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@kiwanisinternational",
+          "username": "kiwanisinternational",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Rotary International",
+      "type": "nonprofit",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/rotaryinternational",
+          "username": "rotaryinternational",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/rotary_international",
+          "username": "rotary_international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/rotary-international",
+          "username": "rotary-international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Rotary%20International",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/rotaryinternational",
+          "username": "rotaryinternational",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/rotary_international",
+          "username": "rotary_international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/rotary-international",
+          "username": "rotary-international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Rotary%20International",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/rotaryinternational",
+          "username": "rotaryinternational",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/rotary_international",
+          "username": "rotary_international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/rotary-international",
+          "username": "rotary-international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@rotaryinternational",
+          "username": "rotaryinternational",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@rotary_international",
+          "username": "rotary_international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@rotary-international",
+          "username": "rotary-international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Rotary%20International",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/rotaryinternational",
+          "username": "rotaryinternational",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/rotary_international",
+          "username": "rotary_international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/rotary-international",
+          "username": "rotary-international",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Rotary%20International",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@rotaryinternational",
+          "username": "rotaryinternational",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Duarte High School PTSA",
+      "type": "nonprofit",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duartehighschoolptsa",
+          "username": "duartehighschoolptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duarte_high_school_ptsa",
+          "username": "duarte_high_school_ptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duarte-high-school-ptsa",
+          "username": "duarte-high-school-ptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Duarte%20High%20School%20PTSA",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duartehighschoolptsa",
+          "username": "duartehighschoolptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duarte_high_school_ptsa",
+          "username": "duarte_high_school_ptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duarte-high-school-ptsa",
+          "username": "duarte-high-school-ptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Duarte%20High%20School%20PTSA",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duartehighschoolptsa",
+          "username": "duartehighschoolptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duarte_high_school_ptsa",
+          "username": "duarte_high_school_ptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duarte-high-school-ptsa",
+          "username": "duarte-high-school-ptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duartehighschoolptsa",
+          "username": "duartehighschoolptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duarte_high_school_ptsa",
+          "username": "duarte_high_school_ptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duarte-high-school-ptsa",
+          "username": "duarte-high-school-ptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Duarte%20High%20School%20PTSA",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duartehighschoolptsa",
+          "username": "duartehighschoolptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duarte_high_school_ptsa",
+          "username": "duarte_high_school_ptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duarte-high-school-ptsa",
+          "username": "duarte-high-school-ptsa",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Duarte%20High%20School%20PTSA",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@duartehighschoolptsa",
+          "username": "duartehighschoolptsa",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Northview Intermediate PTA",
+      "type": "nonprofit",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/northviewintermediatepta",
+          "username": "northviewintermediatepta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/northview_intermediate_pta",
+          "username": "northview_intermediate_pta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/northview-intermediate-pta",
+          "username": "northview-intermediate-pta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Northview%20Intermediate%20PTA",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/northviewintermediatepta",
+          "username": "northviewintermediatepta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/northview_intermediate_pta",
+          "username": "northview_intermediate_pta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/northview-intermediate-pta",
+          "username": "northview-intermediate-pta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Northview%20Intermediate%20PTA",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/northviewintermediatepta",
+          "username": "northviewintermediatepta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/northview_intermediate_pta",
+          "username": "northview_intermediate_pta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/northview-intermediate-pta",
+          "username": "northview-intermediate-pta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@northviewintermediatepta",
+          "username": "northviewintermediatepta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@northview_intermediate_pta",
+          "username": "northview_intermediate_pta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@northview-intermediate-pta",
+          "username": "northview-intermediate-pta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Northview%20Intermediate%20PTA",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/northviewintermediatepta",
+          "username": "northviewintermediatepta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/northview_intermediate_pta",
+          "username": "northview_intermediate_pta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/northview-intermediate-pta",
+          "username": "northview-intermediate-pta",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Northview%20Intermediate%20PTA",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@northviewintermediatepta",
+          "username": "northviewintermediatepta",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Duarte Route 66 Parade Committee",
+      "type": "community",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duarteroute66paradecommittee",
+          "username": "duarteroute66paradecommittee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duarte_route_66_parade_committee",
+          "username": "duarte_route_66_parade_committee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duarte-route-66-parade-committee",
+          "username": "duarte-route-66-parade-committee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Duarte%20Route%2066%20Parade%20Committee",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duarteroute66paradecommittee",
+          "username": "duarteroute66paradecommittee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duarte_route_66_parade_committee",
+          "username": "duarte_route_66_parade_committee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duarte-route-66-parade-committee",
+          "username": "duarte-route-66-parade-committee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Duarte%20Route%2066%20Parade%20Committee",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duarteroute66paradecommittee",
+          "username": "duarteroute66paradecommittee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duarte_route_66_parade_committee",
+          "username": "duarte_route_66_parade_committee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duarte-route-66-parade-committee",
+          "username": "duarte-route-66-parade-committee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duarteroute66paradecommittee",
+          "username": "duarteroute66paradecommittee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duarte_route_66_parade_committee",
+          "username": "duarte_route_66_parade_committee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duarte-route-66-parade-committee",
+          "username": "duarte-route-66-parade-committee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Duarte%20Route%2066%20Parade%20Committee",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duarteroute66paradecommittee",
+          "username": "duarteroute66paradecommittee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duarte_route_66_parade_committee",
+          "username": "duarte_route_66_parade_committee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duarte-route-66-parade-committee",
+          "username": "duarte-route-66-parade-committee",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Duarte%20Route%2066%20Parade%20Committee",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@duarteroute66paradecommittee",
+          "username": "duarteroute66paradecommittee",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Facebook Community Group",
+      "type": "community",
+      "existingSocial": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/groups/duarteca/"
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/groups/duartefamilies/"
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/groups/duartebuysell/"
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/groups/duartemoms/"
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/groups/duartepets/"
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/groups/duartecrimewatch/"
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/groups/sangabrielvalley/"
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/groups/monroviaduarte/"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/facebookcommunitygroup",
+          "username": "facebookcommunitygroup",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/facebook_community_group",
+          "username": "facebook_community_group",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/facebook-community-group",
+          "username": "facebook-community-group",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Facebook%20Community%20Group",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/facebookcommunitygroup",
+          "username": "facebookcommunitygroup",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/facebook_community_group",
+          "username": "facebook_community_group",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/facebook-community-group",
+          "username": "facebook-community-group",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@facebookcommunitygroup",
+          "username": "facebookcommunitygroup",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@facebook_community_group",
+          "username": "facebook_community_group",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@facebook-community-group",
+          "username": "facebook-community-group",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Facebook%20Community%20Group",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/facebookcommunitygroup",
+          "username": "facebookcommunitygroup",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/facebook_community_group",
+          "username": "facebook_community_group",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/facebook-community-group",
+          "username": "facebook-community-group",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Facebook%20Community%20Group",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@facebookcommunitygroup",
+          "username": "facebookcommunitygroup",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@facebook_community_group",
+          "username": "facebook_community_group",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@facebook-community-group",
+          "username": "facebook-community-group",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/facebookcommunitygroup.bsky.social",
+          "username": "facebookcommunitygroup",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/facebook_community_group.bsky.social",
+          "username": "facebook_community_group",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Community Account",
+      "type": "community",
+      "existingSocial": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/exploreduarte/",
+          "handle": "@exploreduarte"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/communityaccount",
+          "username": "communityaccount",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/community_account",
+          "username": "community_account",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/community-account",
+          "username": "community-account",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Community%20Account",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/communityaccount",
+          "username": "communityaccount",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/community_account",
+          "username": "community_account",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/community-account",
+          "username": "community-account",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Community%20Account",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@communityaccount",
+          "username": "communityaccount",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@community_account",
+          "username": "community_account",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@community-account",
+          "username": "community-account",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Community%20Account",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/communityaccount",
+          "username": "communityaccount",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/community_account",
+          "username": "community_account",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/community-account",
+          "username": "community-account",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Community%20Account",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@communityaccount",
+          "username": "communityaccount",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@community_account",
+          "username": "community_account",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@community-account",
+          "username": "community-account",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/communityaccount.bsky.social",
+          "username": "communityaccount",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Reddit",
+      "type": "community",
+      "existingSocial": [
+        {
+          "platform": "reddit",
+          "url": "https://www.reddit.com/r/SanGabrielValley/"
+        },
+        {
+          "platform": "reddit",
+          "url": "https://www.reddit.com/r/LosAngeles/"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Reddit",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Reddit",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Reddit",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Reddit",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/reddit.bsky.social",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/search?q=Reddit",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/search?q=Reddit",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "telegram",
+          "platformName": "Telegram",
+          "url": "https://t.me/reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/search/users/?q=Reddit",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "snapchat",
+          "platformName": "Snapchat",
+          "url": "https://snapchat.com/@reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        },
+        {
+          "platform": "github",
+          "platformName": "GitHub",
+          "url": "https://github.com/reddit",
+          "username": "reddit",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Independent Blogger",
+      "type": "community",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/independentblogger",
+          "username": "independentblogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/independent_blogger",
+          "username": "independent_blogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/independent-blogger",
+          "username": "independent-blogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Independent%20Blogger",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/independentblogger",
+          "username": "independentblogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/independent_blogger",
+          "username": "independent_blogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/independent-blogger",
+          "username": "independent-blogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Independent%20Blogger",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/independentblogger",
+          "username": "independentblogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/independent_blogger",
+          "username": "independent_blogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/independent-blogger",
+          "username": "independent-blogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@independentblogger",
+          "username": "independentblogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@independent_blogger",
+          "username": "independent_blogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@independent-blogger",
+          "username": "independent-blogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Independent%20Blogger",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/independentblogger",
+          "username": "independentblogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/independent_blogger",
+          "username": "independent_blogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/independent-blogger",
+          "username": "independent-blogger",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Independent%20Blogger",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@independentblogger",
+          "username": "independentblogger",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "City of Hope",
+      "type": "corporate",
+      "existingSocial": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/cityofhope/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/cityofhope"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/city-of-hope/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/cityofhope/"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/cityofhope"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@cityofhope",
+          "username": "cityofhope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@hope",
+          "username": "hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@city_of_hope",
+          "username": "city_of_hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@city-of-hope",
+          "username": "city-of-hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/cityofhope.bsky.social",
+          "username": "cityofhope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/hope.bsky.social",
+          "username": "hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/city_of_hope.bsky.social",
+          "username": "city_of_hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/city-of-hope.bsky.social",
+          "username": "city-of-hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/search?q=City%20of%20Hope",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@cityofhope",
+          "username": "cityofhope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@hope",
+          "username": "hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@city_of_hope",
+          "username": "city_of_hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@city-of-hope",
+          "username": "city-of-hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@cityofhope",
+          "username": "cityofhope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@hope",
+          "username": "hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@city_of_hope",
+          "username": "city_of_hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@city-of-hope",
+          "username": "city-of-hope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/search?q=City%20of%20Hope",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/cityofhope",
+          "username": "cityofhope",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/hope",
+          "username": "hope",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "type": "corporate",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/walmart",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Walmart",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/walmart",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Walmart",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/walmart",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@walmart",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Walmart",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/walmart",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Walmart",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@walmart",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/walmart.bsky.social",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/search?q=Walmart",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@walmart",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@walmart",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/search?q=Walmart",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/walmart",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/search?q=Walmart",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "telegram",
+          "platformName": "Telegram",
+          "url": "https://t.me/walmart",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/walmart",
+          "username": "walmart",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/search/users/?q=Walmart",
+          "type": "search",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "type": "corporate",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/target",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Target",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/target",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Target",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/target",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@target",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Target",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/target",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Target",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@target",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/target.bsky.social",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/search?q=Target",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@target",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@target",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/search?q=Target",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/target",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/search?q=Target",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "telegram",
+          "platformName": "Telegram",
+          "url": "https://t.me/target",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/target",
+          "username": "target",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/search/users/?q=Target",
+          "type": "search",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Costco",
+      "type": "corporate",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/costco",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Costco",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/costco",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Costco",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/costco",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@costco",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Costco",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/costco",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Costco",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@costco",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/costco.bsky.social",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/search?q=Costco",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@costco",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@costco",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/search?q=Costco",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/costco",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/search?q=Costco",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "telegram",
+          "platformName": "Telegram",
+          "url": "https://t.me/costco",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/costco",
+          "username": "costco",
+          "status": "unchecked"
+        },
+        {
+          "platform": "pinterest",
+          "platformName": "Pinterest",
+          "url": "https://pinterest.com/search/users/?q=Costco",
+          "type": "search",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "The Home Depot",
+      "type": "corporate",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/thehomedepot",
+          "username": "thehomedepot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/homedepot",
+          "username": "homedepot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/the_home_depot",
+          "username": "the_home_depot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/the-home-depot",
+          "username": "the-home-depot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/home_depot",
+          "username": "home_depot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/home-depot",
+          "username": "home-depot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=The%20Home%20Depot",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/thehomedepot",
+          "username": "thehomedepot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/homedepot",
+          "username": "homedepot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/the_home_depot",
+          "username": "the_home_depot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/the-home-depot",
+          "username": "the-home-depot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/home_depot",
+          "username": "home_depot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/home-depot",
+          "username": "home-depot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=The%20Home%20Depot",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/thehomedepot",
+          "username": "thehomedepot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/homedepot",
+          "username": "homedepot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/the_home_depot",
+          "username": "the_home_depot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/the-home-depot",
+          "username": "the-home-depot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/home_depot",
+          "username": "home_depot",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/home-depot",
+          "username": "home-depot",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "City of Duarte",
+      "type": "government",
+      "existingSocial": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/CityofDuarte/",
+          "handle": "@CityofDuarte"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/CityofDuarte",
+          "handle": "@CityofDuarte"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/cityofduarte/",
+          "handle": "@cityofduarte"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@cityofduarte"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/city-of-duarte/"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@cityofduarte",
+          "username": "cityofduarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@duarte",
+          "username": "duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@city_of_duarte",
+          "username": "city_of_duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@city-of-duarte",
+          "username": "city-of-duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/cityofduarte.bsky.social",
+          "username": "cityofduarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/duarte.bsky.social",
+          "username": "duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/city_of_duarte.bsky.social",
+          "username": "city_of_duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/city-of-duarte.bsky.social",
+          "username": "city-of-duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/search?q=City%20of%20Duarte",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@cityofduarte",
+          "username": "cityofduarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@duarte",
+          "username": "duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@city_of_duarte",
+          "username": "city_of_duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@city-of-duarte",
+          "username": "city-of-duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@cityofduarte",
+          "username": "cityofduarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@duarte",
+          "username": "duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@city_of_duarte",
+          "username": "city_of_duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@city-of-duarte",
+          "username": "city-of-duarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/search?q=City%20of%20Duarte",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/cityofduarte",
+          "username": "cityofduarte",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/duarte",
+          "username": "duarte",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "LA County Library",
+      "type": "government",
+      "existingSocial": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/lacountylibrary.duarte/"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/lacountylibrary",
+          "username": "lacountylibrary",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/la_county_library",
+          "username": "la_county_library",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/la-county-library",
+          "username": "la-county-library",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=LA%20County%20Library",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/lacountylibrary",
+          "username": "lacountylibrary",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/la_county_library",
+          "username": "la_county_library",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/la-county-library",
+          "username": "la-county-library",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@lacountylibrary",
+          "username": "lacountylibrary",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@la_county_library",
+          "username": "la_county_library",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@la-county-library",
+          "username": "la-county-library",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=LA%20County%20Library",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/lacountylibrary",
+          "username": "lacountylibrary",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/la_county_library",
+          "username": "la_county_library",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/la-county-library",
+          "username": "la-county-library",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=LA%20County%20Library",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@lacountylibrary",
+          "username": "lacountylibrary",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@la_county_library",
+          "username": "la_county_library",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@la-county-library",
+          "username": "la-county-library",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/lacountylibrary.bsky.social",
+          "username": "lacountylibrary",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/la_county_library.bsky.social",
+          "username": "la_county_library",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "LA County Workforce Development",
+      "type": "government",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/lacountyworkforcedevelopment",
+          "username": "lacountyworkforcedevelopment",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/la_county_workforce_development",
+          "username": "la_county_workforce_development",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/la-county-workforce-development",
+          "username": "la-county-workforce-development",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=LA%20County%20Workforce%20Development",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/lacountyworkforcedevelopment",
+          "username": "lacountyworkforcedevelopment",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/la_county_workforce_development",
+          "username": "la_county_workforce_development",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/la-county-workforce-development",
+          "username": "la-county-workforce-development",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=LA%20County%20Workforce%20Development",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/lacountyworkforcedevelopment",
+          "username": "lacountyworkforcedevelopment",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/la_county_workforce_development",
+          "username": "la_county_workforce_development",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/la-county-workforce-development",
+          "username": "la-county-workforce-development",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@lacountyworkforcedevelopment",
+          "username": "lacountyworkforcedevelopment",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@la_county_workforce_development",
+          "username": "la_county_workforce_development",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@la-county-workforce-development",
+          "username": "la-county-workforce-development",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=LA%20County%20Workforce%20Development",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/lacountyworkforcedevelopment",
+          "username": "lacountyworkforcedevelopment",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/la_county_workforce_development",
+          "username": "la_county_workforce_development",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/la-county-workforce-development",
+          "username": "la-county-workforce-development",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=LA%20County%20Workforce%20Development",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@lacountyworkforcedevelopment",
+          "username": "lacountyworkforcedevelopment",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "State of California",
+      "type": "government",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/stateofcalifornia",
+          "username": "stateofcalifornia",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/state_of_california",
+          "username": "state_of_california",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/state-of-california",
+          "username": "state-of-california",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=State%20of%20California",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/stateofcalifornia",
+          "username": "stateofcalifornia",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/state_of_california",
+          "username": "state_of_california",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/state-of-california",
+          "username": "state-of-california",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=State%20of%20California",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/stateofcalifornia",
+          "username": "stateofcalifornia",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/state_of_california",
+          "username": "state_of_california",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/state-of-california",
+          "username": "state-of-california",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@stateofcalifornia",
+          "username": "stateofcalifornia",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@state_of_california",
+          "username": "state_of_california",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@state-of-california",
+          "username": "state-of-california",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=State%20of%20California",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/stateofcalifornia",
+          "username": "stateofcalifornia",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/state_of_california",
+          "username": "state_of_california",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/state-of-california",
+          "username": "state-of-california",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=State%20of%20California",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@stateofcalifornia",
+          "username": "stateofcalifornia",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles County Office of Education",
+      "type": "government",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/losangelescountyofficeofeducation",
+          "username": "losangelescountyofficeofeducation",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/los_angeles_county_office_of_education",
+          "username": "los_angeles_county_office_of_education",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/los-angeles-county-office-of-education",
+          "username": "los-angeles-county-office-of-education",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Los%20Angeles%20County%20Office%20of%20Education",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/losangelescountyofficeofeducation",
+          "username": "losangelescountyofficeofeducation",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/los_angeles_county_office_of_education",
+          "username": "los_angeles_county_office_of_education",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/los-angeles-county-office-of-education",
+          "username": "los-angeles-county-office-of-education",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Los%20Angeles%20County%20Office%20of%20Education",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/losangelescountyofficeofeducation",
+          "username": "losangelescountyofficeofeducation",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/los_angeles_county_office_of_education",
+          "username": "los_angeles_county_office_of_education",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/los-angeles-county-office-of-education",
+          "username": "los-angeles-county-office-of-education",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@losangelescountyofficeofeducation",
+          "username": "losangelescountyofficeofeducation",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@los_angeles_county_office_of_education",
+          "username": "los_angeles_county_office_of_education",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@los-angeles-county-office-of-education",
+          "username": "los-angeles-county-office-of-education",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Los%20Angeles%20County%20Office%20of%20Education",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/losangelescountyofficeofeducation",
+          "username": "losangelescountyofficeofeducation",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/los_angeles_county_office_of_education",
+          "username": "los_angeles_county_office_of_education",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/los-angeles-county-office-of-education",
+          "username": "los-angeles-county-office-of-education",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Los%20Angeles%20County%20Office%20of%20Education",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@losangelescountyofficeofeducation",
+          "username": "losangelescountyofficeofeducation",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Duarte Unified School District",
+      "type": "educational",
+      "existingSocial": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/DuarteUSD/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/DuarteUSD"
+        },
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/DuarteUSD/"
+        },
+        {
+          "platform": "twitter",
+          "url": "https://twitter.com/DuarteUSD",
+          "handle": "@DuarteUSD"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/duarteusd/",
+          "handle": "@duarteusd"
+        },
+        {
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@DuarteUnifiedSchoolDistrict"
+        },
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/company/duarte-unified-school-district/"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@duarteunifiedschooldistrict",
+          "username": "duarteunifiedschooldistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@duarte_unified_school_district",
+          "username": "duarte_unified_school_district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@duarte-unified-school-district",
+          "username": "duarte-unified-school-district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/duarteunifiedschooldistrict.bsky.social",
+          "username": "duarteunifiedschooldistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/duarte_unified_school_district.bsky.social",
+          "username": "duarte_unified_school_district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/duarte-unified-school-district.bsky.social",
+          "username": "duarte-unified-school-district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/search?q=Duarte%20Unified%20School%20District",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@duarteunifiedschooldistrict",
+          "username": "duarteunifiedschooldistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@duarte_unified_school_district",
+          "username": "duarte_unified_school_district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@duarte-unified-school-district",
+          "username": "duarte-unified-school-district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@duarteunifiedschooldistrict",
+          "username": "duarteunifiedschooldistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@duarte_unified_school_district",
+          "username": "duarte_unified_school_district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/@duarte-unified-school-district",
+          "username": "duarte-unified-school-district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "tiktok",
+          "platformName": "TikTok",
+          "url": "https://tiktok.com/search?q=Duarte%20Unified%20School%20District",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/duarteunifiedschooldistrict",
+          "username": "duarteunifiedschooldistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/duarte_unified_school_district",
+          "username": "duarte_unified_school_district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/user/duarte-unified-school-district",
+          "username": "duarte-unified-school-district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "reddit",
+          "platformName": "Reddit",
+          "url": "https://reddit.com/search?q=Duarte%20Unified%20School%20District",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "telegram",
+          "platformName": "Telegram",
+          "url": "https://t.me/duarteunifiedschooldistrict",
+          "username": "duarteunifiedschooldistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "telegram",
+          "platformName": "Telegram",
+          "url": "https://t.me/duarte_unified_school_district",
+          "username": "duarte_unified_school_district",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Citrus Community College District",
+      "type": "educational",
+      "existingSocial": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/citruscollege"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/citruscommunitycollegedistrict",
+          "username": "citruscommunitycollegedistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/citrus_community_college_district",
+          "username": "citrus_community_college_district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/citrus-community-college-district",
+          "username": "citrus-community-college-district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Citrus%20Community%20College%20District",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/citruscommunitycollegedistrict",
+          "username": "citruscommunitycollegedistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/citrus_community_college_district",
+          "username": "citrus_community_college_district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/citrus-community-college-district",
+          "username": "citrus-community-college-district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@citruscommunitycollegedistrict",
+          "username": "citruscommunitycollegedistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@citrus_community_college_district",
+          "username": "citrus_community_college_district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@citrus-community-college-district",
+          "username": "citrus-community-college-district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Citrus%20Community%20College%20District",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/citruscommunitycollegedistrict",
+          "username": "citruscommunitycollegedistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/citrus_community_college_district",
+          "username": "citrus_community_college_district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/citrus-community-college-district",
+          "username": "citrus-community-college-district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Citrus%20Community%20College%20District",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@citruscommunitycollegedistrict",
+          "username": "citruscommunitycollegedistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@citrus_community_college_district",
+          "username": "citrus_community_college_district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@citrus-community-college-district",
+          "username": "citrus-community-college-district",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/citruscommunitycollegedistrict.bsky.social",
+          "username": "citruscommunitycollegedistrict",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/citrus_community_college_district.bsky.social",
+          "username": "citrus_community_college_district",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Azusa Pacific University",
+      "type": "educational",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/azusapacificuniversity",
+          "username": "azusapacificuniversity",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/azusa_pacific_university",
+          "username": "azusa_pacific_university",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/azusa-pacific-university",
+          "username": "azusa-pacific-university",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Azusa%20Pacific%20University",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/azusapacificuniversity",
+          "username": "azusapacificuniversity",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/azusa_pacific_university",
+          "username": "azusa_pacific_university",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/azusa-pacific-university",
+          "username": "azusa-pacific-university",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Azusa%20Pacific%20University",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/azusapacificuniversity",
+          "username": "azusapacificuniversity",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/azusa_pacific_university",
+          "username": "azusa_pacific_university",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/azusa-pacific-university",
+          "username": "azusa-pacific-university",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@azusapacificuniversity",
+          "username": "azusapacificuniversity",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@azusa_pacific_university",
+          "username": "azusa_pacific_university",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@azusa-pacific-university",
+          "username": "azusa-pacific-university",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Azusa%20Pacific%20University",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/azusapacificuniversity",
+          "username": "azusapacificuniversity",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/azusa_pacific_university",
+          "username": "azusa_pacific_university",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/azusa-pacific-university",
+          "username": "azusa-pacific-university",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Azusa%20Pacific%20University",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@azusapacificuniversity",
+          "username": "azusapacificuniversity",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "LA County Library - Duarte Branch",
+      "type": "educational",
+      "existingSocial": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/DuarteLibrary/"
+        },
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/duartelibrary/",
+          "handle": "@duartelibrary"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/lacountylibraryduartebranch",
+          "username": "lacountylibraryduartebranch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/la_county_library_duarte_branch",
+          "username": "la_county_library_duarte_branch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/la-county-library-duarte-branch",
+          "username": "la-county-library-duarte-branch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=LA%20County%20Library%20-%20Duarte%20Branch",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@lacountylibraryduartebranch",
+          "username": "lacountylibraryduartebranch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@la_county_library_duarte_branch",
+          "username": "la_county_library_duarte_branch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@la-county-library-duarte-branch",
+          "username": "la-county-library-duarte-branch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=LA%20County%20Library%20-%20Duarte%20Branch",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/lacountylibraryduartebranch",
+          "username": "lacountylibraryduartebranch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/la_county_library_duarte_branch",
+          "username": "la_county_library_duarte_branch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/la-county-library-duarte-branch",
+          "username": "la-county-library-duarte-branch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=LA%20County%20Library%20-%20Duarte%20Branch",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@lacountylibraryduartebranch",
+          "username": "lacountylibraryduartebranch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@la_county_library_duarte_branch",
+          "username": "la_county_library_duarte_branch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@la-county-library-duarte-branch",
+          "username": "la-county-library-duarte-branch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/lacountylibraryduartebranch.bsky.social",
+          "username": "lacountylibraryduartebranch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/la_county_library_duarte_branch.bsky.social",
+          "username": "la_county_library_duarte_branch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/la-county-library-duarte-branch.bsky.social",
+          "username": "la-county-library-duarte-branch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/search?q=LA%20County%20Library%20-%20Duarte%20Branch",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "mastodon",
+          "platformName": "Mastodon",
+          "url": "https://mastodon.social/@lacountylibraryduartebranch",
+          "username": "lacountylibraryduartebranch",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Duarte High School",
+      "type": "educational",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duartehighschool",
+          "username": "duartehighschool",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duarte_high_school",
+          "username": "duarte_high_school",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/duarte-high-school",
+          "username": "duarte-high-school",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Duarte%20High%20School",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duartehighschool",
+          "username": "duartehighschool",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duarte_high_school",
+          "username": "duarte_high_school",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/duarte-high-school",
+          "username": "duarte-high-school",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Duarte%20High%20School",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duartehighschool",
+          "username": "duartehighschool",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duarte_high_school",
+          "username": "duarte_high_school",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/duarte-high-school",
+          "username": "duarte-high-school",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duartehighschool",
+          "username": "duartehighschool",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duarte_high_school",
+          "username": "duarte_high_school",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@duarte-high-school",
+          "username": "duarte-high-school",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Duarte%20High%20School",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duartehighschool",
+          "username": "duartehighschool",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duarte_high_school",
+          "username": "duarte_high_school",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/duarte-high-school",
+          "username": "duarte-high-school",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Duarte%20High%20School",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@duartehighschool",
+          "username": "duartehighschool",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Archdiocese of Los Angeles",
+      "type": "religious",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/archdioceseoflosangeles",
+          "username": "archdioceseoflosangeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/archdiocese_of_los_angeles",
+          "username": "archdiocese_of_los_angeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/archdiocese-of-los-angeles",
+          "username": "archdiocese-of-los-angeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Archdiocese%20of%20Los%20Angeles",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/archdioceseoflosangeles",
+          "username": "archdioceseoflosangeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/archdiocese_of_los_angeles",
+          "username": "archdiocese_of_los_angeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/archdiocese-of-los-angeles",
+          "username": "archdiocese-of-los-angeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Archdiocese%20of%20Los%20Angeles",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/archdioceseoflosangeles",
+          "username": "archdioceseoflosangeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/archdiocese_of_los_angeles",
+          "username": "archdiocese_of_los_angeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/archdiocese-of-los-angeles",
+          "username": "archdiocese-of-los-angeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@archdioceseoflosangeles",
+          "username": "archdioceseoflosangeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@archdiocese_of_los_angeles",
+          "username": "archdiocese_of_los_angeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@archdiocese-of-los-angeles",
+          "username": "archdiocese-of-los-angeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Archdiocese%20of%20Los%20Angeles",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/archdioceseoflosangeles",
+          "username": "archdioceseoflosangeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/archdiocese_of_los_angeles",
+          "username": "archdiocese_of_los_angeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/archdiocese-of-los-angeles",
+          "username": "archdiocese-of-los-angeles",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Archdiocese%20of%20Los%20Angeles",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@archdioceseoflosangeles",
+          "username": "archdioceseoflosangeles",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Immaculate Conception Parish",
+      "type": "religious",
+      "existingSocial": [
+        {
+          "platform": "facebook",
+          "url": "https://www.facebook.com/iccduarte/"
+        }
+      ],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/immaculateconceptionparish",
+          "username": "immaculateconceptionparish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/immaculate_conception_parish",
+          "username": "immaculate_conception_parish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/immaculate-conception-parish",
+          "username": "immaculate-conception-parish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Immaculate%20Conception%20Parish",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/immaculateconceptionparish",
+          "username": "immaculateconceptionparish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/immaculate_conception_parish",
+          "username": "immaculate_conception_parish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/immaculate-conception-parish",
+          "username": "immaculate-conception-parish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@immaculateconceptionparish",
+          "username": "immaculateconceptionparish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@immaculate_conception_parish",
+          "username": "immaculate_conception_parish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@immaculate-conception-parish",
+          "username": "immaculate-conception-parish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Immaculate%20Conception%20Parish",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/immaculateconceptionparish",
+          "username": "immaculateconceptionparish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/immaculate_conception_parish",
+          "username": "immaculate_conception_parish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/immaculate-conception-parish",
+          "username": "immaculate-conception-parish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Immaculate%20Conception%20Parish",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@immaculateconceptionparish",
+          "username": "immaculateconceptionparish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@immaculate_conception_parish",
+          "username": "immaculate_conception_parish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@immaculate-conception-parish",
+          "username": "immaculate-conception-parish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/immaculateconceptionparish.bsky.social",
+          "username": "immaculateconceptionparish",
+          "status": "unchecked"
+        },
+        {
+          "platform": "bluesky",
+          "platformName": "Bluesky",
+          "url": "https://bsky.app/profile/immaculate_conception_parish.bsky.social",
+          "username": "immaculate_conception_parish",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Knights of Columbus",
+      "type": "religious",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/knightsofcolumbus",
+          "username": "knightsofcolumbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/knights_of_columbus",
+          "username": "knights_of_columbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/knights-of-columbus",
+          "username": "knights-of-columbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Knights%20of%20Columbus",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/knightsofcolumbus",
+          "username": "knightsofcolumbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/knights_of_columbus",
+          "username": "knights_of_columbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/knights-of-columbus",
+          "username": "knights-of-columbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Knights%20of%20Columbus",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/knightsofcolumbus",
+          "username": "knightsofcolumbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/knights_of_columbus",
+          "username": "knights_of_columbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/knights-of-columbus",
+          "username": "knights-of-columbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@knightsofcolumbus",
+          "username": "knightsofcolumbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@knights_of_columbus",
+          "username": "knights_of_columbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@knights-of-columbus",
+          "username": "knights-of-columbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Knights%20of%20Columbus",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/knightsofcolumbus",
+          "username": "knightsofcolumbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/knights_of_columbus",
+          "username": "knights_of_columbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/knights-of-columbus",
+          "username": "knights-of-columbus",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Knights%20of%20Columbus",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@knightsofcolumbus",
+          "username": "knightsofcolumbus",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "First Presbyterian Church",
+      "type": "religious",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/firstpresbyterianchurch",
+          "username": "firstpresbyterianchurch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/first_presbyterian_church",
+          "username": "first_presbyterian_church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/first-presbyterian-church",
+          "username": "first-presbyterian-church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=First%20Presbyterian%20Church",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/firstpresbyterianchurch",
+          "username": "firstpresbyterianchurch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/first_presbyterian_church",
+          "username": "first_presbyterian_church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/first-presbyterian-church",
+          "username": "first-presbyterian-church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=First%20Presbyterian%20Church",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/firstpresbyterianchurch",
+          "username": "firstpresbyterianchurch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/first_presbyterian_church",
+          "username": "first_presbyterian_church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/first-presbyterian-church",
+          "username": "first-presbyterian-church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@firstpresbyterianchurch",
+          "username": "firstpresbyterianchurch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@first_presbyterian_church",
+          "username": "first_presbyterian_church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@first-presbyterian-church",
+          "username": "first-presbyterian-church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=First%20Presbyterian%20Church",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/firstpresbyterianchurch",
+          "username": "firstpresbyterianchurch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/first_presbyterian_church",
+          "username": "first_presbyterian_church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/first-presbyterian-church",
+          "username": "first-presbyterian-church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=First%20Presbyterian%20Church",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@firstpresbyterianchurch",
+          "username": "firstpresbyterianchurch",
+          "status": "unchecked"
+        }
+      ]
+    },
+    {
+      "name": "Wesley United Methodist Church",
+      "type": "religious",
+      "existingSocial": [],
+      "potentialProfiles": [
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/wesleyunitedmethodistchurch",
+          "username": "wesleyunitedmethodistchurch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/wesley_united_methodist_church",
+          "username": "wesley_united_methodist_church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/wesley-united-methodist-church",
+          "username": "wesley-united-methodist-church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "twitter",
+          "platformName": "X (Twitter)",
+          "url": "https://x.com/search?q=Wesley%20United%20Methodist%20Church",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/wesleyunitedmethodistchurch",
+          "username": "wesleyunitedmethodistchurch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/wesley_united_methodist_church",
+          "username": "wesley_united_methodist_church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/wesley-united-methodist-church",
+          "username": "wesley-united-methodist-church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "facebook",
+          "platformName": "Facebook",
+          "url": "https://facebook.com/search/pages?q=Wesley%20United%20Methodist%20Church",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/wesleyunitedmethodistchurch",
+          "username": "wesleyunitedmethodistchurch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/wesley_united_methodist_church",
+          "username": "wesley_united_methodist_church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "instagram",
+          "platformName": "Instagram",
+          "url": "https://instagram.com/wesley-united-methodist-church",
+          "username": "wesley-united-methodist-church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@wesleyunitedmethodistchurch",
+          "username": "wesleyunitedmethodistchurch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@wesley_united_methodist_church",
+          "username": "wesley_united_methodist_church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/@wesley-united-methodist-church",
+          "username": "wesley-united-methodist-church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "youtube",
+          "platformName": "YouTube",
+          "url": "https://youtube.com/results?search_query=Wesley%20United%20Methodist%20Church",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/wesleyunitedmethodistchurch",
+          "username": "wesleyunitedmethodistchurch",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/wesley_united_methodist_church",
+          "username": "wesley_united_methodist_church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/company/wesley-united-methodist-church",
+          "username": "wesley-united-methodist-church",
+          "status": "unchecked"
+        },
+        {
+          "platform": "linkedin",
+          "platformName": "LinkedIn",
+          "url": "https://linkedin.com/search/results/companies/?keywords=Wesley%20United%20Methodist%20Church",
+          "type": "search",
+          "status": "unchecked"
+        },
+        {
+          "platform": "threads",
+          "platformName": "Threads",
+          "url": "https://threads.net/@wesleyunitedmethodistchurch",
+          "username": "wesleyunitedmethodistchurch",
+          "status": "unchecked"
+        }
+      ]
+    }
+  ]
+}

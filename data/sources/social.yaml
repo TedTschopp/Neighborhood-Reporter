@@ -1,0 +1,1237 @@
+# Social Media & Community Sources for Duarte
+# Comprehensive listing of social platforms, community groups, and neighborhood networks
+
+sources:
+# ============================================
+# NEIGHBORHOOD SOCIAL NETWORKS
+# ============================================
+
+- id: nextdoor-duarte
+  name: Nextdoor Duarte
+  type: social
+  category: social
+  media_type: social-media
+  organization: Nextdoor
+  organization_type: business
+  url: https://nextdoor.com/city/duarte--ca/
+  social_platform: nextdoor
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 5
+  frequency: realtime
+  language: en
+  tags:
+  - community
+  - local-discussion
+  - events
+  - safety
+  - neighbors
+  notes: "Primary neighborhood social network. Requires account. Good for: local recommendations, lost pets, safety alerts, community events."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: nextdoor-duarte-ranch
+  name: Nextdoor - Duarte Ranch Area
+  type: social
+  category: social
+  media_type: social-media
+  organization: Nextdoor
+  organization_type: business
+  url: https://nextdoor.com/neighborhood/duarte-ranch--duarte--ca/
+  social_platform: nextdoor
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 5
+  frequency: realtime
+  language: en
+  tags:
+  - community
+  - sub-neighborhood
+  - ranch-area
+  notes: "Sub-neighborhood group for Duarte Ranch area residents. Requires Nextdoor account and address verification."
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# FACEBOOK - COMMUNITY GROUPS
+# ============================================
+
+- id: fb-duarte-community
+  name: Duarte Community (Facebook)
+  type: social
+  category: social
+  media_type: social-media
+  organization: Facebook Community Group
+  organization_type: community
+  url: https://www.facebook.com/groups/duarteca/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 5
+  frequency: daily
+  language: en
+  tags:
+  - community
+  - events
+  - local-business
+  - discussion
+  notes: "Main Duarte community Facebook group for general discussion"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-duarte-families
+  name: Duarte Families & Parents (Facebook)
+  type: social
+  category: social
+  media_type: social-media
+  organization: Facebook Community Group
+  organization_type: community
+  url: https://www.facebook.com/groups/duartefamilies/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 5
+  frequency: daily
+  language: en
+  tags:
+  - families
+  - parents
+  - kids
+  - schools
+  notes: "Parents and families connecting about schools, activities, and family life"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-duarte-buy-sell
+  name: Duarte Buy, Sell, Trade (Facebook)
+  type: social
+  category: social
+  media_type: social-media
+  organization: Facebook Community Group
+  organization_type: community
+  url: https://www.facebook.com/groups/duartebuysell/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 4
+  frequency: daily
+  language: en
+  tags:
+  - marketplace
+  - buy-sell
+  - local-commerce
+  notes: "Local marketplace for buying/selling items"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-duarte-moms
+  name: Duarte Moms Group (Facebook)
+  type: social
+  category: social
+  media_type: social-media
+  organization: Facebook Community Group
+  organization_type: community
+  url: https://www.facebook.com/groups/duartemoms/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 5
+  frequency: daily
+  language: en
+  tags:
+  - moms
+  - parents
+  - kids
+  - support
+  notes: "Support group for mothers in Duarte area"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-duarte-pets
+  name: Duarte Lost & Found Pets (Facebook)
+  type: social
+  category: social
+  media_type: social-media
+  organization: Facebook Community Group
+  organization_type: community
+  url: https://www.facebook.com/groups/duartepets/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 5
+  frequency: daily
+  language: en
+  tags:
+  - pets
+  - lost-found
+  - animals
+  - community
+  notes: "Lost and found pets, pet services, and animal welfare"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-duarte-crime-watch
+  name: Duarte Crime Watch (Facebook)
+  type: social
+  category: social
+  media_type: social-media
+  organization: Facebook Community Group
+  organization_type: community
+  url: https://www.facebook.com/groups/duartecrimewatch/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 4
+  frequency: daily
+  language: en
+  tags:
+  - safety
+  - crime
+  - alerts
+  - neighborhood-watch
+  notes: "Community safety alerts and crime reporting"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-sgv-community
+  name: San Gabriel Valley Community (Facebook)
+  type: social
+  category: social
+  media_type: social-media
+  organization: Facebook Community Group
+  organization_type: community
+  url: https://www.facebook.com/groups/sangabrielvalley/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 5
+  frequency: daily
+  language: en
+  tags:
+  - regional
+  - community
+  - sgv
+  notes: "Regional community group covering all of San Gabriel Valley"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-monrovia-duarte-community
+  name: Monrovia-Duarte Community (Facebook)
+  type: social
+  category: social
+  media_type: social-media
+  organization: Facebook Community Group
+  organization_type: community
+  url: https://www.facebook.com/groups/monroviaduarte/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 5
+  frequency: daily
+  language: en
+  tags:
+  - community
+  - monrovia
+  - regional
+  notes: "Joint community group for neighboring cities"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# FACEBOOK - OFFICIAL PAGES
+# ============================================
+
+- id: fb-city-of-duarte
+  name: City of Duarte (Facebook)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: City of Duarte
+  organization_type: government
+  url: https://www.facebook.com/CityofDuarte/
+  social_handle: "@CityofDuarte"
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - government
+  - city
+  - official
+  - events
+  notes: "Official City of Duarte Facebook page"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-duarte-parks-rec
+  name: Duarte Parks & Recreation (Facebook)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: City of Duarte - Parks & Recreation
+  organization_type: government
+  url: https://www.facebook.com/DuarteParksandRecreation/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - parks
+  - recreation
+  - events
+  - sports
+  - classes
+  notes: "Parks, sports leagues, classes, and recreation programs"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-duarte-library
+  name: Duarte Library (Facebook)
+  type: social
+  category: educational
+  media_type: social-media
+  organization: LA County Library - Duarte Branch
+  organization_type: educational
+  url: https://www.facebook.com/DuarteLibrary/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - library
+  - events
+  - programs
+  - education
+  notes: "Duarte Library events, programs, and resources"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-duarte-usd
+  name: Duarte Unified School District (Facebook)
+  type: social
+  category: educational
+  media_type: social-media
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.facebook.com/DuarteUSD/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - schools
+  - education
+  - district
+  - students
+  notes: "Official DUSD Facebook page - school news and events"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-duarte-sheriffs
+  name: LA County Sheriff - Temple Station (Facebook)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: LA County Sheriff - Temple Station
+  organization_type: government
+  url: https://www.facebook.com/LASDTempleStation/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - law-enforcement
+  - safety
+  - sheriff
+  - alerts
+  notes: "Temple Station serves Duarte - crime updates and community policing"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: fb-la-county-fire
+  name: LA County Fire Department (Facebook)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: LA County Fire Department
+  organization_type: government
+  url: https://www.facebook.com/LACoFD/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - fire
+  - emergency
+  - safety
+  - alerts
+  notes: "LA County Fire serves Duarte - emergency updates and fire safety"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# TWITTER/X
+# ============================================
+
+- id: twitter-city-of-duarte
+  name: City of Duarte (Twitter/X)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: City of Duarte
+  organization_type: government
+  url: https://twitter.com/CityofDuarte
+  social_handle: "@CityofDuarte"
+  social_platform: twitter
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - government
+  - city
+  - official
+  - alerts
+  notes: "Official City of Duarte Twitter/X account"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: twitter-lasd-temple
+  name: LA Sheriff Temple Station (Twitter/X)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: LA County Sheriff - Temple Station
+  organization_type: government
+  url: https://twitter.com/ABORREGO_LASD
+  social_handle: "@LASDTEMPLE"
+  social_platform: twitter
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - law-enforcement
+  - safety
+  - alerts
+  notes: "Temple Station Captain's Twitter - @LASDTEMPLE is the official station account"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: twitter-la-county-fire
+  name: LA County Fire (Twitter/X)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: LA County Fire Department
+  organization_type: government
+  url: https://twitter.com/LACoFDPIO
+  social_handle: "@LACoFDPIO"
+  social_platform: twitter
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 10
+  frequency: realtime
+  language: en
+  tags:
+  - fire
+  - emergency
+  - alerts
+  - breaking
+  notes: "Real-time fire and emergency alerts"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: twitter-duarte-usd
+  name: Duarte USD (Twitter/X)
+  type: social
+  category: educational
+  media_type: social-media
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://twitter.com/DuarteUSD
+  social_handle: "@DuarteUSD"
+  social_platform: twitter
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - schools
+  - education
+  - district
+  notes: "School district announcements and updates"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: twitter-la-county
+  name: LA County (Twitter/X)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: Los Angeles County
+  organization_type: government
+  url: https://twitter.com/CountyofLA
+  social_handle: "@CountyofLA"
+  social_platform: twitter
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - county
+  - government
+  - services
+  notes: "County-wide announcements and services"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# INSTAGRAM
+# ============================================
+
+- id: ig-city-of-duarte
+  name: City of Duarte (Instagram)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: City of Duarte
+  organization_type: government
+  url: https://www.instagram.com/cityofduarte/
+  social_handle: "@cityofduarte"
+  social_platform: instagram
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - government
+  - city
+  - official
+  - photos
+  notes: "City events and community photos"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: ig-duarte-parks-rec
+  name: Duarte Parks & Recreation (Instagram)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: City of Duarte - Parks & Recreation
+  organization_type: government
+  url: https://www.instagram.com/duarteparksrec/
+  social_handle: "@duarteparksrec"
+  social_platform: instagram
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - parks
+  - recreation
+  - events
+  - photos
+  notes: "Parks and recreation event photos and updates"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: ig-duarte-usd
+  name: Duarte USD (Instagram)
+  type: social
+  category: educational
+  media_type: social-media
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.instagram.com/duarteusd/
+  social_handle: "@duarteusd"
+  social_platform: instagram
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - schools
+  - education
+  - students
+  - photos
+  notes: "School district visual updates and student highlights"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: ig-duarte-library
+  name: Duarte Library (Instagram)
+  type: social
+  category: educational
+  media_type: social-media
+  organization: LA County Library - Duarte Branch
+  organization_type: educational
+  url: https://www.instagram.com/duartelibrary/
+  social_handle: "@duartelibrary"
+  social_platform: instagram
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  tags:
+  - library
+  - books
+  - programs
+  - events
+  notes: "Library programs and community events"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: ig-explore-duarte
+  name: Explore Duarte (Instagram)
+  type: social
+  category: social
+  media_type: social-media
+  organization: Community Account
+  organization_type: community
+  url: https://www.instagram.com/exploreduarte/
+  social_handle: "@exploreduarte"
+  social_platform: instagram
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 6
+  frequency: weekly
+  language: en
+  tags:
+  - local
+  - photos
+  - community
+  - places
+  notes: "Community photos and local highlights"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# YOUTUBE & VIDEO
+# ============================================
+
+- id: youtube-city-of-duarte
+  name: City of Duarte (YouTube)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: City of Duarte
+  organization_type: government
+  url: https://www.youtube.com/@cityofduarte
+  social_platform: youtube
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - government
+  - city-council
+  - meetings
+  - video
+  notes: "City Council meetings, public forums, and community videos"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: youtube-duarte-usd
+  name: Duarte USD (YouTube)
+  type: social
+  category: educational
+  media_type: social-media
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.youtube.com/@DuarteUnifiedSchoolDistrict
+  social_platform: youtube
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - schools
+  - board-meetings
+  - education
+  - video
+  notes: "School board meetings and district videos"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# LINKEDIN
+# ============================================
+
+- id: linkedin-city-of-duarte
+  name: City of Duarte (LinkedIn)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: City of Duarte
+  organization_type: government
+  url: https://www.linkedin.com/company/city-of-duarte/
+  social_platform: linkedin
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  tags:
+  - government
+  - jobs
+  - professional
+  notes: "City job postings and professional updates"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: linkedin-duarte-usd
+  name: Duarte USD (LinkedIn)
+  type: social
+  category: educational
+  media_type: social-media
+  organization: Duarte Unified School District
+  organization_type: educational
+  url: https://www.linkedin.com/company/duarte-unified-school-district/
+  social_platform: linkedin
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  tags:
+  - education
+  - jobs
+  - professional
+  notes: "District job postings and professional updates"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# COMMUNITY APPS & PLATFORMS
+# ============================================
+
+- id: citizen-app-duarte
+  name: Citizen App - Duarte
+  type: social
+  category: social
+  media_type: app
+  organization: Citizen
+  organization_type: business
+  url: https://citizen.com/explore
+  app_store_url: https://apps.apple.com/us/app/citizen-connect-stay-safe/id1039889567
+  play_store_url: https://play.google.com/store/apps/details?id=sp0n.citizen
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 6
+  frequency: realtime
+  language: en
+  tags:
+  - safety
+  - alerts
+  - incidents
+  - realtime
+  - app-based
+  notes: "Real-time safety alerts and incident reports. App uses GPS location - no direct Duarte URL. Download app and enable location services."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: ring-neighbors-duarte
+  name: Ring Neighbors - Duarte
+  type: social
+  category: social
+  media_type: app
+  organization: Ring (Amazon)
+  organization_type: business
+  url: https://ring.com/neighbors
+  app_store_url: https://apps.apple.com/us/app/neighbors-by-ring/id1218902498
+  play_store_url: https://play.google.com/store/apps/details?id=com.ring.neighbors
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 5
+  frequency: realtime
+  language: en
+  tags:
+  - safety
+  - security
+  - video
+  - neighbors
+  - app-based
+  notes: "Security camera footage and safety alerts from Ring doorbell owners. App uses GPS location - no direct Duarte URL. Works with or without Ring device."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# REDDIT & FORUMS
+# ============================================
+
+- id: reddit-san-gabriel-valley
+  name: r/SanGabrielValley (Reddit)
+  type: social
+  category: social
+  media_type: social-media
+  organization: Reddit
+  organization_type: community
+  url: https://www.reddit.com/r/SanGabrielValley/
+  social_platform: reddit
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 5
+  frequency: daily
+  language: en
+  tags:
+  - regional
+  - discussion
+  - recommendations
+  - community
+  notes: "Regional subreddit covering San Gabriel Valley including Duarte"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: reddit-los-angeles
+  name: r/LosAngeles (Reddit)
+  type: social
+  category: social
+  media_type: social-media
+  organization: Reddit
+  organization_type: community
+  url: https://www.reddit.com/r/LosAngeles/
+  social_platform: reddit
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 6
+  frequency: realtime
+  language: en
+  tags:
+  - regional
+  - los-angeles
+  - news
+  - discussion
+  notes: "LA-wide subreddit with occasional Duarte/SGV discussions"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# COMMUNITY CALENDARS & EVENTS
+# ============================================
+
+- id: eventbrite-duarte
+  name: Eventbrite - Duarte Events
+  type: manual
+  category: social
+  media_type: online
+  organization: Eventbrite
+  organization_type: business
+  url: https://www.eventbrite.com/d/ca--duarte/events/
+  neighborhoods:
+  - duarte
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: daily
+  language: en
+  tags:
+  - events
+  - tickets
+  - community
+  - activities
+  notes: "Community events and ticketed activities in Duarte"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: meetup-duarte
+  name: Meetup - Duarte Area Groups
+  type: manual
+  category: social
+  media_type: online
+  organization: Meetup
+  organization_type: business
+  url: https://www.meetup.com/find/?location=us--ca--duarte
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 7
+  frequency: weekly
+  language: en
+  tags:
+  - groups
+  - meetups
+  - activities
+  - social
+  - hobbies
+  notes: "Local interest groups and meetups - hiking, book clubs, tech, etc."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# EMERGENCY & ALERT SYSTEMS
+# ============================================
+
+- id: alert-la-county
+  name: Alert LA County
+  type: manual
+  category: social
+  media_type: online
+  organization: Los Angeles County
+  organization_type: government
+  url: https://alert.lacounty.gov/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 10
+  frequency: realtime
+  language: en
+  tags:
+  - emergency
+  - alerts
+  - safety
+  - official
+  notes: "Official county emergency alert system - sign up for notifications"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: nixle-lasd
+  name: Nixle - LASD Temple Station
+  type: manual
+  category: social
+  media_type: online
+  organization: LA County Sheriff - Temple Station
+  organization_type: government
+  url: https://local.nixle.com/lasd-temple-station/
+  signup_url: https://www.nixle.com/signup/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: realtime
+  language: en
+  tags:
+  - alerts
+  - safety
+  - law-enforcement
+  - notifications
+  notes: "Sign up for text/email alerts from Temple Station. Enter zip code 91010 during signup."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: pulsepoint-la-county
+  name: PulsePoint - LA County
+  type: social
+  category: social
+  media_type: app
+  organization: PulsePoint Foundation
+  organization_type: nonprofit
+  url: https://www.pulsepoint.org/pulsepoint-respond/
+  web_app_url: https://web.pulsepoint.org/
+  app_store_url: https://apps.apple.com/us/app/pulsepoint-respond/id500724889
+  play_store_url: https://play.google.com/store/apps/details?id=mobi.firedepartment
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: realtime
+  language: en
+  tags:
+  - fire
+  - ems
+  - emergency
+  - alerts
+  - app-based
+  notes: "Real-time fire and EMS incident tracking. Web app at web.pulsepoint.org shows LA County incidents. Search for Duarte or use GPS."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# LOCAL INFLUENCERS & BLOGGERS
+# ============================================
+
+- id: sgv-tribune-social
+  name: San Gabriel Valley Tribune Social
+  type: social
+  category: media
+  media_type: social-media
+  organization: San Gabriel Valley Tribune
+  organization_type: media
+  url: https://twitter.com/SGVTribune
+  social_handle: "@SGVTribune"
+  social_platform: twitter
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - news
+  - media
+  - breaking
+  - regional
+  notes: "Regional newspaper social media for breaking news"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: foothill-cities-blog
+  name: Foothill Cities Blog
+  type: manual
+  category: social
+  media_type: online
+  organization: Independent Blogger
+  organization_type: community
+  url: https://foothillcities.com/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 6
+  frequency: weekly
+  language: en
+  tags:
+  - blog
+  - local
+  - commentary
+  - foothill
+  notes: "Local blog covering foothill communities including Duarte"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# COMMUNITY DIRECTORIES & RESOURCES
+# ============================================
+
+- id: 211-la-county
+  name: 211 LA County
+  type: manual
+  category: social
+  media_type: online
+  organization: 211 LA County
+  organization_type: nonprofit
+  url: https://www.211la.org/
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 10
+  frequency: daily
+  language: en
+  contact:
+    phone: "211"
+  tags:
+  - resources
+  - social-services
+  - helpline
+  - community
+  notes: "24/7 helpline for community resources - food, housing, health, and more"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: la-county-parks-social
+  name: LA County Parks (Social)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: LA County Parks & Recreation
+  organization_type: government
+  url: https://www.facebook.com/lacountyparks/
+  social_platform: facebook
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - parks
+  - recreation
+  - events
+  - outdoors
+  notes: "County parks including Fish Canyon Trail and nearby regional parks"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: metro-la-social
+  name: LA Metro (Social)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: Los Angeles Metro
+  organization_type: government
+  url: https://twitter.com/metrolosangeles
+  social_handle: "@metrolosangeles"
+  social_platform: twitter
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - transit
+  - gold-line
+  - transportation
+  - alerts
+  notes: "Metro Gold Line serves Duarte/City of Hope station - service alerts"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: foothill-transit-social
+  name: Foothill Transit (Social)
+  type: social
+  category: municipal
+  media_type: social-media
+  organization: Foothill Transit
+  organization_type: government
+  url: https://twitter.com/Foothill_Transit
+  social_handle: "@Foothill_Transit"
+  social_platform: twitter
+  neighborhoods:
+  - duarte
+  coverage_area: region
+  reliability_score: 9
+  frequency: daily
+  language: en
+  tags:
+  - transit
+  - bus
+  - transportation
+  - alerts
+  notes: "Foothill Transit serves Duarte - route and service updates"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"

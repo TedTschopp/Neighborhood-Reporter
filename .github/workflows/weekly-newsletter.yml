@@ -1,0 +1,55 @@
+name: Weekly Newsletter
+
+on:
+  schedule:
+    # Run every Sunday at 8 AM UTC (12 AM PST / 1 AM PDT)
+    - cron: '0 8 * * 0'
+  workflow_dispatch:
+    inputs:
+      neighborhood:
+        description: 'Neighborhood ID (leave empty for all)'
+        required: false
+        default: ''
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch latest feeds
+        run: npm run fetch
+
+      - name: Generate newsletter
+        run: npm run build:newsletter
+        env:
+          NEIGHBORHOOD: ${{ github.event.inputs.neighborhood }}
+
+      - name: Commit newsletter
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/aggregated/ output/ || true
+          git diff --staged --quiet || git commit -m "chore: generate weekly newsletter [skip ci]"
+          git push || true
+
+      - name: Upload newsletter artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: newsletter-${{ github.run_id }}
+          path: output/newsletters/
+          retention-days: 30
