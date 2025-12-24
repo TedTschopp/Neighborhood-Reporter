@@ -889,6 +889,7 @@ sources:
   social_platform: reddit
   neighborhoods:
   - duarte
+  - sierra-madre
   coverage_area: region
   reliability_score: 5
   frequency: daily
@@ -898,7 +899,7 @@ sources:
   - discussion
   - recommendations
   - community
-  notes: "Regional subreddit covering San Gabriel Valley including Duarte"
+  notes: "Regional subreddit covering San Gabriel Valley"
   active: true
   verified: true
   created_at: "2025-12-18"
@@ -915,6 +916,7 @@ sources:
   social_platform: reddit
   neighborhoods:
   - duarte
+  - sierra-madre
   coverage_area: region
   reliability_score: 6
   frequency: realtime
@@ -924,7 +926,117 @@ sources:
   - los-angeles
   - news
   - discussion
-  notes: "LA-wide subreddit with occasional Duarte/SGV discussions"
+  notes: "LA-wide subreddit with occasional SGV discussions"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# SIERRA MADRE SOCIAL MEDIA
+# ============================================
+
+- id: sierra-madre-tattler
+  name: Sierra Madre Tattler
+  type: manual
+  category: social
+  media_type: online
+  organization: Sierra Madre Tattler
+  organization_type: community
+  url: https://sierramadretattler.blogspot.com/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 6
+  frequency: daily
+  language: en
+  tags:
+  - blog
+  - community
+  - opinion
+  - local-news
+  notes: "Independent community blog covering Sierra Madre politics and events"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: citizen-app-sierra-madre
+  name: Citizen App - Sierra Madre
+  type: social
+  category: social
+  media_type: app
+  organization: Citizen
+  organization_type: business
+  url: https://citizen.com/explore
+  app_store_url: https://apps.apple.com/us/app/citizen-connect-stay-safe/id1039889567
+  play_store_url: https://play.google.com/store/apps/details?id=sp0n.citizen
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 6
+  frequency: realtime
+  language: en
+  tags:
+  - safety
+  - alerts
+  - incidents
+  - realtime
+  - app-based
+  notes: "Real-time safety alerts. App uses GPS location - download and enable location services."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: ring-neighbors-sierra-madre
+  name: Ring Neighbors - Sierra Madre
+  type: social
+  category: social
+  media_type: app
+  organization: Ring (Amazon)
+  organization_type: business
+  url: https://ring.com/neighbors
+  app_store_url: https://apps.apple.com/us/app/neighbors-by-ring/id1218902498
+  play_store_url: https://play.google.com/store/apps/details?id=com.ring.neighbors
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 5
+  frequency: realtime
+  language: en
+  tags:
+  - safety
+  - security
+  - video
+  - neighbors
+  - app-based
+  notes: "Security camera footage and safety alerts from Ring doorbell owners."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: eventbrite-sierra-madre
+  name: Eventbrite - Sierra Madre Events
+  type: manual
+  category: social
+  media_type: online
+  organization: Eventbrite
+  organization_type: business
+  url: https://www.eventbrite.com/d/ca--sierra-madre/events/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: daily
+  language: en
+  tags:
+  - events
+  - tickets
+  - community
+  - activities
+  notes: "Community events and ticketed activities in Sierra Madre"
   active: true
   verified: true
   created_at: "2025-12-18"
@@ -999,6 +1111,7 @@ sources:
   url: https://alert.lacounty.gov/
   neighborhoods:
   - duarte
+  - sierra-madre
   coverage_area: region
   reliability_score: 10
   frequency: realtime
@@ -1053,6 +1166,7 @@ sources:
   play_store_url: https://play.google.com/store/apps/details?id=mobi.firedepartment
   neighborhoods:
   - duarte
+  - sierra-madre
   coverage_area: region
   reliability_score: 8
   frequency: realtime
@@ -1063,7 +1177,7 @@ sources:
   - emergency
   - alerts
   - app-based
-  notes: "Real-time fire and EMS incident tracking. Web app at web.pulsepoint.org shows LA County incidents. Search for Duarte or use GPS."
+  notes: "Real-time fire and EMS incident tracking. Web app at web.pulsepoint.org shows LA County incidents."
   active: true
   verified: true
   created_at: "2025-12-18"

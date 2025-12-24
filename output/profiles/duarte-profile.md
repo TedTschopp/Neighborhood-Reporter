@@ -296,7 +296,7 @@ Duarte is a city in Los Angeles County, California, located in the San Gabriel  
   - 📞 (323) 881-2411
 - **[LA County Supervisor District 5](https://kathrynbarger.lacounty.gov/)** - Los Angeles County
   - 📞 (213) 974-5555
-  - *Duarte is in LA County Supervisor District 5*
+  - *Duarte and Sierra Madre are in LA County Supervisor District 5*
 - **[Metro Foothill Gold Line Extension](https://foothillgoldline.org/)** - Foothill Gold Line Construction Authority
   - *Duarte/City of Hope Gold Line Station serves Duarte*
 - **[LA Metro](https://www.metro.net/)** - Los Angeles County Metropolitan Transportation Authority
@@ -496,9 +496,9 @@ Duarte is a city in Los Angeles County, California, located in the San Gabriel  
 - **[Ring Neighbors - Duarte](https://ring.com/neighbors)** - Ring (Amazon)
   - *Security camera footage and safety alerts from Ring doorbell owners. App uses GPS location - no direct Duarte URL. Works with or without Ring device.*
 - **[r/SanGabrielValley (Reddit)](https://www.reddit.com/r/SanGabrielValley/)** - Reddit
-  - *Regional subreddit covering San Gabriel Valley including Duarte*
+  - *Regional subreddit covering San Gabriel Valley*
 - **[r/LosAngeles (Reddit)](https://www.reddit.com/r/LosAngeles/)** - Reddit
-  - *LA-wide subreddit with occasional Duarte/SGV discussions*
+  - *LA-wide subreddit with occasional SGV discussions*
 - **[Eventbrite - Duarte Events](https://www.eventbrite.com/d/ca--duarte/events/)** - Eventbrite
   - *Community events and ticketed activities in Duarte*
 - **[Meetup - Duarte Area Groups](https://www.meetup.com/find/?location=us--ca--duarte)** - Meetup
@@ -508,7 +508,7 @@ Duarte is a city in Los Angeles County, California, located in the San Gabriel  
 - **[Nixle - LASD Temple Station](https://local.nixle.com/lasd-temple-station/)** - LA County Sheriff - Temple Station
   - *Sign up for text/email alerts from Temple Station. Enter zip code 91010 during signup.*
 - **[PulsePoint - LA County](https://www.pulsepoint.org/pulsepoint-respond/)** - PulsePoint Foundation
-  - *Real-time fire and EMS incident tracking. Web app at web.pulsepoint.org shows LA County incidents. Search for Duarte or use GPS.*
+  - *Real-time fire and EMS incident tracking. Web app at web.pulsepoint.org shows LA County incidents.*
 - **[Foothill Cities Blog](https://foothillcities.com/)** - Independent Blogger
   - *Local blog covering foothill communities including Duarte*
 - **[211 LA County](https://www.211la.org/)**

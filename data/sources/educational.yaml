@@ -1,7 +1,240 @@
-# Educational Sources for Duarte
+# Educational Sources for San Gabriel Valley Communities
 # Comprehensive listing of schools, educational institutions, and resources
 
 sources:
+# ============================================
+# PASADENA UNIFIED SCHOOL DISTRICT - SIERRA MADRE
+# ============================================
+
+- id: pusd-district
+  name: Pasadena Unified School District
+  type: rss
+  category: educational
+  media_type: online
+  organization: Pasadena Unified School District
+  organization_type: educational
+  url: https://www.pusd.us/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: district
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 396-3600"
+    office_address: "351 S Hudson Ave, Pasadena, CA 91109"
+    website: https://www.pusd.us/contact
+  tags:
+  - education
+  - schools
+  - district
+  - k-12
+  notes: "Sierra Madre joined PUSD in 1961"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Elementary School
+- id: sierra-madre-elementary
+  name: Sierra Madre Elementary School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Pasadena Unified School District
+  organization_type: educational
+  url: https://www.pusd.us/sierramadreelementary
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 396-5890"
+    office_address: "141 W. Highland Ave, Sierra Madre, CA 91024"
+  tags:
+  - education
+  - elementary
+  - public-school
+  - k-5
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Middle School
+- id: sierra-madre-middle
+  name: Sierra Madre Middle School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Pasadena Unified School District
+  organization_type: educational
+  url: https://www.pusd.us/sierramadremiddle
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 396-5910"
+    office_address: "160 N. Canon Ave, Sierra Madre, CA 91024"
+  tags:
+  - education
+  - middle-school
+  - public-school
+  - 6-8
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# SIERRA MADRE PRIVATE SCHOOLS
+# ============================================
+
+# Alverno Heights Academy
+- id: alverno-heights-academy
+  name: Alverno Heights Academy
+  type: manual
+  category: educational
+  media_type: online
+  organization: Alverno Heights Academy
+  organization_type: educational
+  url: https://www.alverno-hs.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 355-3463"
+    office_address: "200 N. Michillinda Ave, Sierra Madre, CA 91024"
+  tags:
+  - education
+  - private-school
+  - catholic
+  - girls-school
+  - high-school
+  notes: "All-girls Catholic high school. Film location for Lady Bird, Princess Diaries, Legally Blonde"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# St. Rita School
+- id: st-rita-school
+  name: St. Rita School
+  type: manual
+  category: educational
+  media_type: online
+  organization: St. Rita Catholic Church
+  organization_type: educational
+  url: https://st-rita.org/school
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 355-6114"
+    office_address: "322 N. Baldwin Ave, Sierra Madre, CA 91024"
+  tags:
+  - education
+  - private-school
+  - catholic
+  - parochial
+  - k-8
+  notes: "Parish school opened 1922"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# The Gooden School
+- id: gooden-school
+  name: The Gooden School
+  type: manual
+  category: educational
+  media_type: online
+  organization: The Gooden School
+  organization_type: educational
+  url: https://www.goodenschool.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 355-2410"
+    office_address: "192 N. Baldwin Ave, Sierra Madre, CA 91024"
+  tags:
+  - education
+  - private-school
+  - episcopal
+  - k-6
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Bethany Christian School
+- id: bethany-christian-school
+  name: Bethany Christian School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Bethany Church
+  organization_type: educational
+  url: https://www.bethanychristianschool.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  tags:
+  - education
+  - private-school
+  - christian
+  - preschool
+  - elementary
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Community Nursery School
+- id: sm-community-nursery
+  name: Sierra Madre Community Nursery School
+  type: manual
+  category: educational
+  media_type: online
+  organization: Sierra Madre Community Nursery School
+  organization_type: educational
+  url: https://smcns.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  tags:
+  - education
+  - preschool
+  - nursery
+  - early-childhood
+  notes: "Community preschool operating since the 1940s"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
 # ============================================
 # DUARTE UNIFIED SCHOOL DISTRICT
 # ============================================

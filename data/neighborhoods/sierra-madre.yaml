@@ -1,0 +1,47 @@
+# Sierra Madre, California
+# City in Los Angeles County
+
+id: sierra-madre
+name: Sierra Madre
+slug: sierra-madre
+aliases:
+- City of Sierra Madre
+- Village of the Foothills
+- Wisteria City
+region: San Gabriel Valley
+city: Sierra Madre
+state: CA
+country: US
+zip_codes:
+- "91024"
+- "91025"
+boundaries:
+  north: Angeles National Forest
+  south: Arcadia
+  east: Arcadia
+  west: Pasadena
+coordinates:
+  latitude: 34.1647
+  longitude: -118.0508
+population: 11268
+council_district: "City Council"
+school_district: Pasadena Unified School District
+police_division: Sierra Madre Police Department
+fire_district: Sierra Madre Fire Department
+tags:
+- foothills
+- small-town
+- historic
+- film-location
+- wisteria
+- hiking
+- san-gabriel-mountains
+description: >
+  Sierra Madre is a small foothill city in Los Angeles County, known as the 
+  "Village of the Foothills" and "Wisteria City." Incorporated in 1907, it 
+  features the world's largest flowering plant - a Chinese wisteria vine 
+  measuring over one acre. The city maintains its own police and fire 
+  departments and is part of the Pasadena Unified School District.
+active: true
+created_at: "2025-12-18"
+updated_at: "2025-12-18"

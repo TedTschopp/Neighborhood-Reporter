@@ -1,6 +1,172 @@
-# Municipal/Government Sources for Duarte
+# Municipal/Government Sources
 
 sources:
+# ===========================================
+# SIERRA MADRE MUNICIPAL SOURCES
+# ===========================================
+
+# City of Sierra Madre
+- id: city-of-sierra-madre
+  name: City of Sierra Madre
+  type: rss
+  category: municipal
+  media_type: online
+  organization: City of Sierra Madre
+  organization_type: government
+  url: https://www.sierramadreca.gov/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 10
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 355-7135"
+    office_address: "232 W. Sierra Madre Blvd., Sierra Madre, CA 91024"
+    website: https://www.sierramadreca.gov/contact
+  tags:
+  - government
+  - city
+  - official
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: sierra-madre-city-council
+  name: Sierra Madre City Council
+  type: manual
+  category: municipal
+  media_type: online
+  organization: City of Sierra Madre
+  organization_type: government
+  url: https://www.sierramadreca.gov/government/city_council
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 10
+  frequency: monthly
+  language: en
+  tags:
+  - government
+  - city-council
+  - meetings
+  - agendas
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Police Department
+- id: sierra-madre-police
+  name: Sierra Madre Police Department
+  type: rss
+  category: municipal
+  media_type: online
+  organization: Sierra Madre Police Department
+  organization_type: government
+  url: https://www.sierramadreca.gov/services/police_department
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 10
+  frequency: daily
+  language: en
+  contact:
+    phone: "(626) 355-1414"
+    office_address: "242 W. Sierra Madre Blvd., Sierra Madre, CA 91024"
+  tags:
+  - public-safety
+  - crime
+  - police
+  notes: "Sierra Madre maintains its own police department"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Fire Department
+- id: sierra-madre-fire
+  name: Sierra Madre Fire Department
+  type: rss
+  category: municipal
+  media_type: online
+  organization: Sierra Madre Fire Department
+  organization_type: government
+  url: https://www.sierramadreca.gov/services/fire_department
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 10
+  frequency: daily
+  language: en
+  contact:
+    phone: "(626) 355-3611"
+    office_address: "242 W. Sierra Madre Blvd., Sierra Madre, CA 91024"
+  tags:
+  - public-safety
+  - fire
+  - emergency
+  - paramedic
+  notes: "Sierra Madre Fire transitioned from volunteer to full-time in 2017"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Public Library
+- id: sierra-madre-library
+  name: Sierra Madre Public Library
+  type: rss
+  category: municipal
+  media_type: online
+  organization: City of Sierra Madre
+  organization_type: government
+  url: https://www.sierramadreca.gov/services/library
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - library
+  - community
+  - events
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Gateway Coach (City Bus)
+- id: sierra-madre-gateway-coach
+  name: Gateway Coach
+  type: manual
+  category: municipal
+  media_type: online
+  organization: City of Sierra Madre
+  organization_type: government
+  url: https://www.sierramadreca.gov/services/transportation/gateway_coach
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 9
+  frequency: monthly
+  language: en
+  tags:
+  - transit
+  - bus
+  - transportation
+  notes: "City-operated bus service connecting to Metro"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ===========================================
+# DUARTE MUNICIPAL SOURCES
+# ===========================================
+
 # City of Duarte
 - id: city-of-duarte
   name: City of Duarte
@@ -144,6 +310,7 @@ sources:
   feed_url: https://kathrynbarger.lacounty.gov/feed/
   neighborhoods:
   - duarte
+  - sierra-madre
   coverage_area: district
   reliability_score: 10
   frequency: weekly
@@ -155,7 +322,7 @@ sources:
   - government
   - county
   - supervisor
-  notes: "Duarte is in LA County Supervisor District 5"
+  notes: "Duarte and Sierra Madre are in LA County Supervisor District 5"
   active: true
   verified: true
   created_at: "2025-12-18"
@@ -199,6 +366,7 @@ sources:
   feed_url: https://www.metro.net/feed/
   neighborhoods:
   - duarte
+  - sierra-madre
   coverage_area: county
   reliability_score: 9
   frequency: daily
@@ -228,6 +396,7 @@ sources:
   feed_url: http://publichealth.lacounty.gov/feed/
   neighborhoods:
   - duarte
+  - sierra-madre
   coverage_area: county
   reliability_score: 10
   frequency: weekly

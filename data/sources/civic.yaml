@@ -1,6 +1,191 @@
-# Civic Organization Sources for Duarte
+# Civic Organization Sources for San Gabriel Valley Communities
 
 sources:
+# ============================================
+# SIERRA MADRE CIVIC ORGANIZATIONS
+# ============================================
+
+# Sierra Madre Chamber of Commerce
+- id: sierra-madre-chamber
+  name: Sierra Madre Chamber of Commerce
+  type: rss
+  category: civic
+  media_type: online
+  organization: Sierra Madre Chamber of Commerce
+  organization_type: business
+  url: https://www.sierramadrechamber.com/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  tags:
+  - business
+  - chamber
+  - economic-development
+  - events
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Historical Preservation Society
+- id: sierra-madre-historical
+  name: Sierra Madre Historical Preservation Society
+  type: manual
+  category: civic
+  media_type: online
+  organization: Sierra Madre Historical Preservation Society
+  organization_type: nonprofit
+  url: http://www.smhps.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  tags:
+  - history
+  - preservation
+  - heritage
+  - landmarks
+  notes: "Founded 1931, maintains 48 designated historical properties"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Kiwanis Club
+- id: sierra-madre-kiwanis
+  name: Sierra Madre Kiwanis Club
+  type: manual
+  category: civic
+  media_type: online
+  organization: Kiwanis International
+  organization_type: nonprofit
+  url: https://www.sierramadrekiwanis.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  tags:
+  - service-club
+  - community
+  - volunteer
+  notes: "Founded 1927"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Lions Club
+- id: sierra-madre-lions
+  name: Sierra Madre Lions Club
+  type: manual
+  category: civic
+  media_type: online
+  organization: Lions Club International
+  organization_type: nonprofit
+  url: https://www.sierramadrelions.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: monthly
+  language: en
+  tags:
+  - service-club
+  - community
+  - volunteer
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Rose Float Association
+- id: sierra-madre-rose-float
+  name: Sierra Madre Rose Float Association
+  type: manual
+  category: civic
+  media_type: online
+  organization: Sierra Madre Rose Float Association
+  organization_type: nonprofit
+  url: https://sierramadrerosefloat.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  tags:
+  - community
+  - volunteer
+  - rose-parade
+  - tradition
+  notes: "Building floats since 1917, no city funding - entirely volunteer-built"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Search and Rescue
+- id: sierra-madre-sar
+  name: Sierra Madre Search and Rescue Team
+  type: manual
+  category: civic
+  media_type: online
+  organization: Sierra Madre Search and Rescue
+  organization_type: nonprofit
+  url: https://smsr.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: region
+  reliability_score: 9
+  frequency: weekly
+  language: en
+  tags:
+  - search-rescue
+  - volunteer
+  - emergency
+  - hiking
+  notes: "Established 1951, provides mountain rescue services"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Environmental Action Council
+- id: sierra-madre-eac
+  name: Sierra Madre Environmental Action Council
+  type: manual
+  category: civic
+  media_type: online
+  organization: Sierra Madre Environmental Action Council
+  organization_type: nonprofit
+  url: https://www.smeac.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  tags:
+  - environment
+  - conservation
+  - sustainability
+  notes: "Founded January 1971"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# DUARTE CIVIC ORGANIZATIONS
+# ============================================
+
 # Duarte Chamber of Commerce
 - id: duarte-chamber
   name: Duarte Chamber of Commerce

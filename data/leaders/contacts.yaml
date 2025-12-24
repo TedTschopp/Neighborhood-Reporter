@@ -1,6 +1,243 @@
-# Local Leaders and Contacts for Duarte
+# Local Leaders and Contacts for San Gabriel Valley Communities
 
 leaders:
+# ============================================
+# SIERRA MADRE CITY COUNCIL
+# ============================================
+
+- id: robert-parkhurst-mayor-sm
+  name: Robert Parkhurst
+  role: Mayor
+  organization: City of Sierra Madre
+  organization_type: government
+  neighborhoods:
+  - sierra-madre
+  social:
+    email: citycouncil@sierramadreca.gov
+  contact:
+    phone: "(626) 355-7135"
+    office_address: "232 W. Sierra Madre Blvd, Sierra Madre, CA 91024"
+    website: https://www.sierramadreca.gov/cityhall/elected_officials/parkhurst
+  tags:
+  - mayor
+  - city-council
+  - elected
+  notes: "Current Mayor of Sierra Madre"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: kristine-lowe-mayor-pro-tem-sm
+  name: Kristine Lowe
+  role: Mayor Pro Tem
+  organization: City of Sierra Madre
+  organization_type: government
+  neighborhoods:
+  - sierra-madre
+  social:
+    email: citycouncil@sierramadreca.gov
+  contact:
+    phone: "(626) 355-7135"
+    office_address: "232 W. Sierra Madre Blvd, Sierra Madre, CA 91024"
+    website: https://www.sierramadreca.gov/cityhall/elected_officials/lowe
+  tags:
+  - mayor-pro-tem
+  - city-council
+  - elected
+  notes: "Current Mayor Pro Tem of Sierra Madre"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: edward-garcia-councilmember-sm
+  name: Edward Garcia
+  role: Council Member
+  organization: City of Sierra Madre
+  organization_type: government
+  neighborhoods:
+  - sierra-madre
+  social:
+    email: citycouncil@sierramadreca.gov
+  contact:
+    phone: "(626) 355-7135"
+    office_address: "232 W. Sierra Madre Blvd, Sierra Madre, CA 91024"
+    website: https://www.sierramadreca.gov/cityhall/elected_officials/garcia
+  tags:
+  - city-council
+  - elected
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: kelly-kriebs-councilmember-sm
+  name: Kelly Kriebs
+  role: Council Member
+  organization: City of Sierra Madre
+  organization_type: government
+  neighborhoods:
+  - sierra-madre
+  social:
+    email: citycouncil@sierramadreca.gov
+  contact:
+    phone: "(626) 355-7135"
+    office_address: "232 W. Sierra Madre Blvd, Sierra Madre, CA 91024"
+    website: https://www.sierramadreca.gov/cityhall/elected_officials/council_member_kriebs
+  tags:
+  - city-council
+  - elected
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: gene-goss-councilmember-sm
+  name: Gene Goss
+  role: Council Member
+  organization: City of Sierra Madre
+  organization_type: government
+  neighborhoods:
+  - sierra-madre
+  social:
+    email: citycouncil@sierramadreca.gov
+  contact:
+    phone: "(626) 355-7135"
+    office_address: "232 W. Sierra Madre Blvd, Sierra Madre, CA 91024"
+    website: https://www.sierramadreca.gov/cityhall/elected_officials/goss
+  tags:
+  - city-council
+  - elected
+  notes: "Former Mayor (2016-2017)"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# SIERRA MADRE CITY STAFF
+# ============================================
+
+- id: sm-city-manager
+  name: City Manager
+  role: City Manager
+  organization: City of Sierra Madre
+  organization_type: government
+  neighborhoods:
+  - sierra-madre
+  contact:
+    phone: "(626) 355-7135"
+    office_address: "232 W. Sierra Madre Blvd, Sierra Madre, CA 91024"
+  tags:
+  - city-staff
+  - executive
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: sm-police-chief
+  name: Police Chief
+  role: Police Chief
+  organization: Sierra Madre Police Department
+  organization_type: government
+  neighborhoods:
+  - sierra-madre
+  contact:
+    phone: "(626) 355-1414"
+    office_address: "242 W. Sierra Madre Blvd, Sierra Madre, CA 91024"
+  tags:
+  - police
+  - public-safety
+  - department-head
+  notes: "Sierra Madre maintains its own police department"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: sm-fire-chief
+  name: Fire Chief
+  role: Fire Chief
+  organization: Sierra Madre Fire Department
+  organization_type: government
+  neighborhoods:
+  - sierra-madre
+  contact:
+    phone: "(626) 355-3611"
+    office_address: "242 W. Sierra Madre Blvd, Sierra Madre, CA 91024"
+  tags:
+  - fire
+  - public-safety
+  - department-head
+  notes: "Department transitioned from volunteer to full-time in 2017"
+  active: true
+  verified: false
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# SIERRA MADRE STATE/FEDERAL REPRESENTATIVES
+# ============================================
+
+- id: john-harabedian-assemblymember
+  name: John Harabedian
+  role: State Assemblymember (District 41)
+  organization: California State Assembly
+  organization_type: government
+  neighborhoods:
+  - sierra-madre
+  tags:
+  - state-assembly
+  - elected
+  - democrat
+  notes: "Former Sierra Madre Mayor (2014-2015)"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: sasha-perez-state-senator
+  name: Sasha Renée Pérez
+  role: State Senator (District 25)
+  organization: California State Senate
+  organization_type: government
+  neighborhoods:
+  - sierra-madre
+  tags:
+  - state-senate
+  - elected
+  - democrat
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+- id: judy-chu-congresswoman-sm
+  name: Judy Chu
+  role: U.S. Representative (CA-28)
+  organization: U.S. House of Representatives
+  organization_type: government
+  neighborhoods:
+  - sierra-madre
+  contact:
+    phone: "(626) 304-0110"
+    office_address: "527 S. Lake Ave #106, Pasadena, CA 91101"
+    website: https://chu.house.gov/
+  tags:
+  - congress
+  - elected
+  - democrat
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# DUARTE CITY COUNCIL
+# ============================================
+
 # City Council
 - id: tera-martin-del-campo-mayor
   name: Tera Martin Del Campo

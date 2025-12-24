@@ -1,7 +1,187 @@
-# Religious Organizations in Duarte
+# Religious Organizations in San Gabriel Valley
 # Comprehensive listing of churches, temples, and faith-based organizations
 
 sources:
+# ============================================
+# SIERRA MADRE RELIGIOUS ORGANIZATIONS
+# ============================================
+
+# St. Rita Catholic Church
+- id: st-rita-catholic
+  name: St. Rita Catholic Church
+  type: manual
+  category: religious
+  media_type: online
+  organization: St. Rita Catholic Church
+  organization_type: religious
+  url: https://st-rita.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 355-1292"
+    office_address: "318 N. Baldwin Ave, Sierra Madre, CA 91024"
+  tags:
+  - church
+  - catholic
+  - mass
+  - sacraments
+  - archdiocese-la
+  notes: "Founded 1908, parish school opened 1922. Over 1,200 parish families."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre Congregational Church
+- id: sierra-madre-congregational
+  name: Sierra Madre Congregational Church
+  type: manual
+  category: religious
+  media_type: online
+  organization: Sierra Madre Congregational Church (UCC)
+  organization_type: religious
+  url: https://www.smcongchurch.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 355-3566"
+    office_address: "170 W. Sierra Madre Blvd, Sierra Madre, CA 91024"
+  tags:
+  - church
+  - congregational
+  - ucc
+  - historic
+  notes: "Historic Old North Church (1890) is part of this parish. Romanesque Revival building completed 1922."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Episcopal Church of the Ascension
+- id: church-of-ascension
+  name: Episcopal Church of the Ascension
+  type: manual
+  category: religious
+  media_type: online
+  organization: Episcopal Church of the Ascension
+  organization_type: religious
+  url: https://www.ascension-sierramadre.com/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 355-1133"
+    office_address: "25 E. Laurel Ave, Sierra Madre, CA 91024"
+  tags:
+  - church
+  - episcopal
+  - anglican
+  - historic
+  notes: "Founded 1888. Film location for The Fog (1980) and Glee."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Bethany Church Sierra Madre
+- id: bethany-church-sm
+  name: Bethany Church
+  type: manual
+  category: religious
+  media_type: online
+  organization: Bethany Church
+  organization_type: religious
+  url: https://www.bethanysm.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 355-1015"
+    office_address: "93 N. Baldwin Ave, Sierra Madre, CA 91024"
+  tags:
+  - church
+  - nondenominational
+  - christian
+  notes: "Historic Bethany Temple building dedicated 1922, designed by Louis D. Corneulle"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre United Methodist Church
+- id: sierra-madre-umc
+  name: Sierra Madre United Methodist Church
+  type: manual
+  category: religious
+  media_type: online
+  organization: Sierra Madre United Methodist Church
+  organization_type: religious
+  url: https://www.smumc.net/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  contact:
+    phone: "(626) 355-0629"
+    office_address: "695 W. Sierra Madre Blvd, Sierra Madre, CA 91024"
+  tags:
+  - church
+  - methodist
+  - umc
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Mater Dolorosa Passionist Retreat Center
+- id: mater-dolorosa-retreat
+  name: Mater Dolorosa Passionist Retreat Center
+  type: manual
+  category: religious
+  media_type: online
+  organization: Passionist Fathers
+  organization_type: religious
+  url: https://www.materdolorosa.org/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: region
+  reliability_score: 8
+  frequency: monthly
+  language: en
+  contact:
+    phone: "(626) 355-7188"
+    office_address: "700 N. Sunnyside Ave, Sierra Madre, CA 91024"
+  tags:
+  - retreat
+  - catholic
+  - monastery
+  - spiritual
+  notes: "80-acre retreat center since 1931. Hosted Ohio State before 1958 Rose Bowl."
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ============================================
+# DUARTE RELIGIOUS ORGANIZATIONS
+# ============================================
+
 # ============================================
 # CATHOLIC CHURCHES
 # ============================================

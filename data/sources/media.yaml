@@ -1,6 +1,166 @@
-# Media Sources Covering Duarte
+# Media Sources Covering San Gabriel Valley Communities
 
 sources:
+# ===========================================
+# SIERRA MADRE LOCAL MEDIA
+# ===========================================
+
+# Sierra Madre Weekly
+- id: sierra-madre-weekly
+  name: Sierra Madre Weekly
+  type: rss
+  category: media
+  media_type: print
+  organization: Sierra Madre Weekly
+  organization_type: media
+  url: http://sierramadreweekly.com/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  tags:
+  - news
+  - local
+  - print
+  - hyperlocal
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Mountain Views News
+- id: mountain-views-news
+  name: Mountain Views News
+  type: rss
+  category: media
+  media_type: print
+  organization: Mountain Views News
+  organization_type: media
+  url: http://mtnviewsnews.com/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: weekly
+  language: en
+  tags:
+  - news
+  - local
+  - print
+  - adjudicated
+  notes: "Sierra Madre's legal adjudicated newspaper"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Sierra Madre News Net
+- id: sierra-madre-news-net
+  name: Sierra Madre News Net
+  type: rss
+  category: media
+  media_type: online
+  organization: Sierra Madre News Net
+  organization_type: media
+  url: http://www.sierramadrenews.net/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 7
+  frequency: daily
+  language: en
+  tags:
+  - news
+  - local
+  - online
+  - hyperlocal
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Patch - Sierra Madre
+- id: patch-sierra-madre
+  name: Patch - Sierra Madre
+  type: rss
+  category: media
+  media_type: online
+  organization: Patch Media
+  organization_type: media
+  url: https://patch.com/california/sierramadre
+  feed_url: https://patch.com/california/sierramadre/rss.xml
+  neighborhoods:
+  - sierra-madre
+  coverage_area: neighborhood
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - news
+  - local
+  - hyperlocal
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Colorado Boulevard Newspaper
+- id: colorado-boulevard-news
+  name: Colorado Boulevard Newspaper
+  type: rss
+  category: media
+  media_type: online
+  organization: Colorado Boulevard
+  organization_type: media
+  url: https://www.coloradoboulevard.net/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: region
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - news
+  - local
+  - community
+  - independent
+  notes: "Independent community newspaper covering Sierra Madre and western San Gabriel Valley"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# Pasadena Now
+- id: pasadena-now
+  name: Pasadena Now
+  type: rss
+  category: media
+  media_type: online
+  organization: Pasadena Now
+  organization_type: media
+  url: https://www.pasadenanow.com/
+  neighborhoods:
+  - sierra-madre
+  coverage_area: region
+  reliability_score: 8
+  frequency: daily
+  language: en
+  tags:
+  - news
+  - local
+  - online
+  notes: "Covers Pasadena area including Sierra Madre"
+  active: true
+  verified: true
+  created_at: "2025-12-18"
+  updated_at: "2025-12-18"
+
+# ===========================================
+# DUARTE LOCAL MEDIA
+# ===========================================
+
 # Patch - Hyperlocal news
 - id: patch-duarte
   name: Patch - Duarte
@@ -38,6 +198,7 @@ sources:
   feed_url: https://www.sgvtribune.com/feed/
   neighborhoods:
   - duarte
+  - sierra-madre
   coverage_area: region
   reliability_score: 9
   frequency: daily
@@ -66,6 +227,7 @@ sources:
   feed_url: https://www.pasadenastarnews.com/feed/
   neighborhoods:
   - duarte
+  - sierra-madre
   coverage_area: region
   reliability_score: 9
   frequency: daily
