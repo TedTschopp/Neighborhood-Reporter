@@ -1,9 +1,6 @@
 name: Fetch News Feeds
 
 on:
-  schedule:
-    # Run daily at 6 AM UTC (10 PM PST / 11 PM PDT)
-    - cron: '0 6 * * *'
   workflow_dispatch:
     inputs:
       generate_newsletter:

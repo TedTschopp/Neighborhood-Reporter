@@ -1,9 +1,6 @@
 name: Weekly Newsletter
 
 on:
-  schedule:
-    # Run every Sunday at 8 AM UTC (12 AM PST / 1 AM PDT)
-    - cron: '0 8 * * 0'
   workflow_dispatch:
     inputs:
       neighborhood:
