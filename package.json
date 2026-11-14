@@ -39,5 +39,13 @@
   },
   "engines": {
     "node": ">=18.0.0"
+  },
+  "overrides": {
+    "editorconfig": {
+      "minimatch": "^9.0.9"
+    },
+    "serve-handler": {
+      "minimatch": "^3.1.5"
+    }
   }
 }
