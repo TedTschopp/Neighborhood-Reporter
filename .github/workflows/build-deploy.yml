@@ -7,6 +7,8 @@ on:
       - 'data/**'
       - 'scripts/**'
       - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/build-deploy.yml'
   pull_request:
     branches: [main]
   workflow_dispatch:
@@ -23,7 +25,23 @@ concurrency:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    outputs:
+      pages_enabled: ${{ steps.pages.outputs.enabled }}
     steps:
+      - name: Check whether GitHub Pages is enabled
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        id: pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          enabled=$(gh api "repos/${GITHUB_REPOSITORY}" --jq '.has_pages')
+          case "$enabled" in
+            true|false) echo "enabled=$enabled" >> "$GITHUB_OUTPUT" ;;
+            *) echo '::error::GitHub did not report whether Pages is enabled.'; exit 1 ;;
+          esac
+          if [ "$enabled" = false ]; then
+            echo 'GitHub Pages is disabled. The API will be built and retained as an artifact without deployment.' >> "$GITHUB_STEP_SUMMARY"
+          fi
       - name: Checkout
         uses: actions/checkout@v4
 
@@ -69,12 +87,12 @@ jobs:
           path: ./api
 
   deploy:
-    if: github.ref == 'refs/heads/main'
+    if: needs.validate.outputs.pages_enabled == 'true'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: [validate, build]
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
